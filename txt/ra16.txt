@@ -1,0 +1,2573 @@
+                  CMYK
+                       RELATÓRIO ANUAL 2017
+50 anos pelo desenvolvimento do Brasil
+
+04 APRESENTAÇÃO
+06 MENSAGEM DO PRESIDENTE
+PA RT E I
+10 DINÂMICA DO SETOR BANCÁRIO 2017
+14 Cenário econômico
+15 Crédito
+16 Juros e spread
+17 Taxa de inadimplência e endividamento
+18 Captação de recursos
+19 Margem de juros (crédito e títulos)
+20 Resiliência do setor bancário – Índice de Basileia
+PA RT E I I
+22 A FEBRABAN                                        40 DESTAQUES INSTITUCIONAIS 2017
+25 Missão, visão e valores                            40 Planos econômicos
+25 Principais produtos e serviços                     41 Regulação prudencial, riscos e economia
+26 Planejamento estratégico                           44 Estudos sobre o setor bancário
+27 Públicos de relacionamento                         46 Autorregulação
+28 Parcerias e compromissos                           48 Ambiente regulatório
+29 	Diálogos com a sociedade                         49 Ambiente de crédito
+30 50 anos da FEBRABAN                                53 Ambiente operacional
+                                                      55 Relacionamento com clientes
+31 GOVERNANÇA                                         58 Relações trabalhistas
+31 Estrutura de governança                            61 Novas tecnologias
+34 Capital humano
+38 	Eficiência no uso de recursos
+76 SUMÁRIO DE CONTEÚDO DA GRI
+79 CRÉDITOS
+
+62 RESPONSABILIDADE SOCIOAMBIENTAL
+63 Economia Verde e novos negócios
+66 Publicações FEBRABAN 2017 –
+    SFN e a Economia Verde
+    Programas de responsabilidade
+70 	
+    socioambiental
+72 INSTITUTO FEBRABAN DE EDUCAÇÃO (INFI)
+73 Educação corporativa
+73 Educação financeira
+74 Prêmio INFI-FEBRABAN de Economia Bancária
+74 Certificação
+
+4                        RELATÓRIO ANUAL 2017
+A P R E S E N TAÇ ÃO
+ESTE RELATÓRIO, DIVIDIDO
+EM DUAS PARTES, TRAZ OS
+DESTAQUES DO SETOR BANCÁRIO
+EM 2017 E AS PRINCIPAIS
+ATIVIDADES DA FEBRABAN
+QUE CONTRIBUÍRAM COM O
+FORTALECIMENTO DO SISTEMA
+FINANCEIRO NACIONAL (SFN)
+
+APRESENTAÇÃO                                                                             5
+       A Federação Brasileira de Bancos (FEBRABAN) publica, pelo décimo ano
+consecutivo, seu relatório anual e tem como inspiração as diretrizes da Global
+Reporting Initiative (GRI). A edição 2017 foi elaborada com base na GRI Standards.
+Os indicadores aqui relatados se referem apenas à FEBRABAN e não ao seu setor de
+atuação, a não ser quando indicado o contrário. GRI 102-52 | 102-54
+       Esta edição traz o desempenho da FEBRABAN e de suas atividades relativas
+ao exercício de 1º de janeiro a 31 de dezembro de 2017. O documento referente ao
+exercício de 2016 foi publicado em 2017. GRI 102-50 | 102-51
+       Para a definição do conteúdo deste relatório, a FEBRABAN tomou como base
+temas priorizados em seu Planejamento Estratégico de 2017, os quais refletem demandas,
+desafios e expectativas dos representantes das instituições financeiras associadas, bem
+como assuntos de interesse de seus demais stakeholders. GRI 102-6 | 102-46
+       Entre esses temas, destacam-se planos econômicos, regulação prudencial,
+autorregulação bancária, imagem pública do setor, relações trabalhistas, impactos
+da revolução digital, melhoria do ambiente de crédito, relacionamento com clientes,
+responsabilidade socioambiental e outros aspectos relevantes para a atuação da
+FEBRABAN no atendimento às demandas de seus diversos stakeholders (indicados na
+página 27). GRI 102-40 | 102-44 | 102-46 | 102-47
+       A FEBRABAN também mantém engajamento contínuo com seus stakeholders
+por meio de suas áreas estratégicas e de seus canais de atendimento, entre eles o
+Fale Conosco e a Central Conte Aqui, e busca sempre aprimorar serviços e avaliar os
+impactos nas atividades de seus públicos prioritários. GRI 102-42 | 102-43 | 103-2
+       Este relatório apresenta inicialmente os principais destaques do setor bancário e
+contém dados de operações de crédito, transações com cartões, captação de recursos,
+investimentos em tecnologia, entre outros, que demonstram a solidez financeira e a
+competência na gestão de riscos das instituições.
+       Posteriormente, este documento aborda o perfil organizacional, a estrutura de
+governança e as principais ações institucionais da Federação Brasileira de Bancos, bem
+como as atividades de responsabilidade socioambiental e do Instituto FEBRABAN de
+Educação (INFI).
+       Em relação ao relatório anterior, ressalta-se que não houve reformulações de
+informações de escopo e limites de tópicos materiais nem qualquer alteração quanto
+à estrutura organizacional da FEBRABAN, bem como em sua cadeia de fornecedores.
+GRI 102-10 | 102-48 | 102-49
+       Dúvidas, comentários, sugestões ou críticas relacionados a este documento
+podem ser encaminhados para o e-mail sustentabilidade@febraban.org.br. GRI 102-53
+       Na página 74, encontra-se o sumário de conteúdo da GRI. GRI 102-55
+
+6                                RELATÓRIO ANUAL 2017
+MENSAGEM DO PRESIDENTE GRI102-14
+A FEBRABAN ORGULHA-SE
+DE TER PARTICIPAÇÃO EM
+EPISÓDIOS DECISIVOS DA
+HISTÓRIA DO BRASIL
+
+MENSAGEM DO PRESIDENTE                                                                        7
+GRI 102-14
+        Em 2017, mais precisamente no dia 9 de novembro, a FEBRABAN completou
+meio século de existência. São 50 anos de história de bons serviços prestados ao
+País, à sociedade brasileira e ao setor bancário. Durante esse período, o Brasil passou
+por altos e baixos, por momentos de entusiasmo e de pessimismo. Em todos eles, os
+bancos tiveram um papel importante.
+        Esse foi um ano em que o Brasil começou a se recuperar de uma das mais
+profundas e longas recessões de sua história econômica. No último trimestre de 2017, a
+economia cresceu a uma taxa de 2,2%. As estimativas do PIB para 2018 apontam para
+crescimento entre 2,5% e 3%.
+        Para 2018, o mercado espera aumento na oferta de crédito e queda nos juros, no spread
+bancário e na inadimplência. A pesquisa mais recente da FEBRABAN, com 26 associadas,
+registrou expectativa de aumento de 3,9% na carteira de crédito total, impulsionado pelos
+empréstimos a pessoas físicas, com elevação em torno de 8,3%. No caso dos empréstimos
+com recursos livres para pessoas jurídicas, o crédito deve crescer 4%.
+        Em 2017, as taxas de juros nos empréstimos do crédito livre às pessoas físicas e
+às empresas caíram, respectivamente, 14,8 e 7,1 pontos percentuais. Assim, no total,
+tiveram queda de 10,6, mais do que a variação da Selic, que foi reduzida em 7,25
+pontos percentuais.
+        Embora os juros tenham caído mais do que a Selic em pontos percentuais, ainda
+estão em patamares elevados. Isso porque a Selic é apenas um dos componentes da
+taxa de juros final ao consumidor, e não o mais importante. A queda sustentável das
+taxas de juro depende de um conjunto de fatores, entre os quais os custos associados à
+inadimplência e aos custos operacionais, tributários e regulatórios. Para exemplificar,
+os custos da inadimplência no Brasil são quatro vezes maiores e os custos tributários,
+50% mais elevados do que a mediana dos custos de um conjunto de países relevantes
+analisados pela empresa de consultoria Accenture. O somatório desses custos
+impostos à atividade de crédito no País, segundo estatísticas do Banco Central, chega
+a 75% do spread bancário.
+        Os bancos estão adotando medidas, nas suas esferas de competência, para
+reduzir custos e assim baixar os juros e os spreads bancários. Porém, as medidas
+de maior impacto, como melhorar a recuperação de garantias oferecidas por
+empréstimos, simplificar e reduzir a intrincada tributação, bem como aprimorar as
+informações sobre clientes, dependem de uma ação conjunta de toda a sociedade,
+que envolve instituições, reguladores, governo, Congresso Nacional e Judiciário.
+        Continuamos na liderança dos esforços de modernização tecnológica,
+aumentando eficiência, qualidade, comodidade e segurança dos serviços que
+prestamos aos nossos clientes. Entre as iniciativas recentes adotadas pelo setor
+bancário, destaca-se a nova plataforma de cobrança de boletos, que fortaleceu o
+combate a fraudes e aumentou as conveniências para os clientes. O resultado dos
+investimentos em tecnologia, inclusive em termos de comodidade para os usuários e
+consumidores dos serviços e produtos bancários, é visível no aumento das transações
+via mobile banking (os aplicativos para celular), que superaram aquelas realizadas
+pelos canais tradicionais de atendimento.
+
+8                                                                                 RELATÓRIO ANUAL 2017
+GRI 102-14
+                   Assim como se preocupa com o bem-estar e satisfação de seus clientes, o setor
+           dá atenção especial àqueles que tornam isso possível: os colaboradores que trabalham
+           nos bancos. Nossa Convenção Coletiva é um bom exemplo de entendimento entre
+           trabalhadores e empregadores – praticada há mais de 20 anos sem nenhuma intervenção
+           estatal, gerou bons salários para os bancários, bem maiores do que o salário médio do
+           País, longos períodos de permanência no emprego (em média dez anos), participação
+           nos lucros e muitas outras vantagens não previstas em lei. Acreditamos que a nova Lei
+           Trabalhista vai ajudar o País a criar mais e melhores empregos, aumentar a produtividade
+           e reduzir a informalidade e a litigiosidade. A reforma preserva os direitos previstos na
+           Constituição e na Consolidação das Leis do Trabalho (CLT) e, ao mesmo tempo, dá a
+           empregadores e empregados a possibilidade de negociar novas relações de trabalho que
+           sejam mais adequadas para ambas as partes.
+                   Um importante desafio para o País enfrentar é a reforma da Previdência,
+           essencial para reduzir privilégios e desequilíbrios, principalmente para conter o
+           aumento da dívida pública e abrir espaço ao investimento público e ao custeio das
+           despesas necessárias em áreas fundamentais, como a educação, a segurança e a saúde.
+                   O ano de 2017 foi mais um período de intenso trabalho do setor na cooperação
+           entre as instituições financeiras e as autoridades responsáveis pelo combate à
+           lavagem de dinheiro. Os bancos continuam como a principal fonte de comunicações
+           de suspeitas e irregularidades na movimentação de dinheiro ao Conselho de Controle
+           de Atividades Financeiras (COAF), com bom aproveitamento dessas informações: 17%
+           dessas comunicações transformaram-se em abertura de investigação. Para tanto, os
+           bancos empregam recursos tecnológicos de altíssima qualidade, adotam regras rígidas
+           de controle e contratam profissionais cada vez mais qualificados e atentos.
+                   Outro destaque na atuação da FEBRABAN e dos bancos foi o acordo, assinado
+           em dezembro de 2017, para solucionar as demandas sobre os Planos Verão, Bresser e
+           Collor II. Esse acordo trará benefícios para a sociedade brasileira, o sistema judicial,
+           os poupadores e os bancos. As demandas sobre esses planos econômicos são o
+           caso maior e mais complexo em tramitação no Judiciário brasileiro. Envolveram,
+           aproximadamente, 1 milhão de ações individuais e cerca de mil ações civis públicas.
+                   Para a sociedade brasileira, o acordo alcançado demonstra que a mediação
+           e a conciliação são melhores mecanismos para resolver conflitos do que as disputas
+           judiciais. Outro importante benefício para todos é o reconhecimento, no acordo, de que
+           a legislação que editou esses planos, seguida fielmente pelos bancos, é constitucional. O
+           acordo traz principalmente uma resposta efetiva a centenas de milhares de poupadores,
+           que há longo tempo esperam solução adequada para suas demandas.
+
+MENSAGEM DO PRESIDENTE                                                                 9
+GRI 102-14
+        Para os bancos, o principal benefício foi a possibilidade de eliminar um risco
+potencial grave gerado por essas demandas, já que o acordo tem a capacidade de
+encerrar as ações civis públicas não prescritas ainda em tramitação e que poderiam
+servir de veículo para que mais pessoas ingressassem na Justiça.
+        Em 2017, o setor também avançou em pontos importantes de seu compromisso
+com os consumidores de produtos e serviços bancários. Aproveitamos para destacar
+o importante papel dos ouvidores, na mediação e na resolução de conflitos e como
+indutores de mudanças nas respectivas instituições financeiras.
+        Além de fortalecer as ouvidorias dos bancos, por meio de um acordo de
+cooperação com a Secretaria Nacional do Consumidor do Ministério da Justiça, a
+FEBRABAN, em reconhecimento pela efetividade e o alcance do site consumidor.gov.br,
+anunciou seu compromisso em usar essa plataforma oficial para a mediação de conflitos
+que envolvam suas associadas.
+        Foi um ano de aniversários. No ano em que comemoramos 50 anos de
+atuação da FEBRABAN, celebramos também dez anos de realização do Café com
+Sustentabilidade. Desde o passo inicial em 2007, reunimos mais de 2.500 pessoas,
+inspiradas por mais de 140 palestrantes, para debater uma lista extensa de assuntos.
+Sensibilizamos executivos de bancos e outros membros da sociedade civil para
+estimular o desenvolvimento de princípios e estudos sobre a sustentabilidade
+aplicada à atividade bancária. Os temas ligados à sustentabilidade têm papel cada vez
+mais relevante nas decisões de autoridades, consumidores e investidores, permitem
+minimizar riscos e criam oportunidades de negócio.
+        Não foi pouco o que conseguimos nesses 50 anos de trabalho representando
+um setor sem o qual não há consumo, produção e investimento sustentáveis. Ainda
+temos muito a fazer. Não conseguiríamos alcançar os sucessos já obtidos sem a
+atuação decidida dos líderes dessa indústria e dos dirigentes que moldaram o setor,
+que trouxeram sua experiência executiva e sua capacidade de vencer os grandes
+desafios. As conquistas que alcançamos, a coragem e o otimismo para enfrentar as
+incertezas do futuro não seriam possíveis sem contar com a capacidade de uma das
+categorias profissionais mais qualificadas do mercado brasileiro, a dos bancários.
+        Nosso setor e a FEBRABAN, ao encerrar mais um ano de intensa atividade,
+reafirmam o compromisso de continuar contribuindo de forma decidida para construir
+um Brasil mais rico, mais justo, mais democrático e mais sustentável.
+        Confira, ao longo desta publicação, os detalhes de nossas estratégias e
+iniciativas de 2017.
+Murilo Portugal
+
+PA RT E I
+DINÂMICA DO SETOR
+BANCÁRIO 2017
+CENÁRIO ECONÔMICO
+CRÉDITO
+JUROS E SPREAD
+TAXA DE INADIMPLÊNCIA E ENDIVIDAMENTO
+CAPTAÇÃO DE RECURSOS
+MARGEM DE JUROS (CRÉDITO E TÍTULOS)
+RESILIÊNCIA DO SETOR BANCÁRIO – ÍNDICE DE BASILEIA
+
+
+12                                                                                              RELATÓRIO ANUAL 2017
+  PATRIMÔNIO LÍQUIDO DO SETOR                                          INVESTIMENTO EM TECNOLOGIA
+  BANCÁRIO (R$ BILHÕES)*                                               (R$ BILHÕES)
+                                                 595,6
+                                   541,6                                 21,5
+   478,8
+                    504,5                                                         19,2     18,6  19,5
+       2014           2015           2016           2017                 2014      2015    2016   2017
+   * Valores revistos para critérios de segmentação B1 e B2 do BACEN.
+  LUCRO LÍQUIDO DO SETOR BANCÁRIO                                      RETORNO SOBRE PATRIMÔNIO LÍQUIDO
+  (R$ BILHÕES)*                                                        DO SETOR BANCÁRIO (%)
+                     82,8                         82,9                           15,37
+                                                                                                13,90
+      65,8                          64,8                                14,10
+                                                                                          11,30
+       2014           2015           2016           2017                 2014      2015    2016   2017
+   * Valores revistos para critérios de segmentação B1 e B2 do BACEN.
+  OPERAÇÕES DE CRÉDITO (R$ TRILHÕES)                                   TRANSAÇÕES COM CARTÕES DE CRÉDITO
+                                                                       E DÉBITO (BILHÕES)
+                       3,21                                                                     13,4
+                                      3,10                                        11,4    12,4
+     3,02                                          3,09                  10,3
+      2014             2015           2016           2017                2014     2015    2016   2017
+                               R$        3,09 TRI                                           13,4 BI
+
+DINÂMICA DO SETOR BANCÁRIO 2017                                                                                                          13
+                                     TRANSAÇÕES EM CANAIS DIGITAIS (BILHÕES)
+                                          MOBILE BANKING
+                                         2014                       4,7      18,0     17,7
+                                                                                                                       15,8
+                                                                                                14,8
+                                         2015                    11,2
+                                         2016                    21,9        2014    2015       2016                       2017
+                                         2017                   25,9
+                                                                                                            INTERNET BANKING
+                                     BOLETOS ELETRÔNICOS ACUMULADOS NO DDA (BILHÕES)
+                                                                                  2,2
+                                                          1,4           1,8
+                                         1,2
+                                                                                              1 4 5 811 43 678 000005 86 6
+                                        2014              2015          2016      2017
+ VALOR DAS TRANSAÇÕES COM CARTÕES DE                                                    CONSUMIDORES COM RELACIONAMENTOS ATIVOS
+ CRÉDITO E DÉBITO (R$ BILHÕES)*                                                         NO SISTEMA (MILHÕES)
+                                               1.230                                                                               153,9
+     979          1.076 1.144
+                                                                                                                            146,9
+                                                                                                          143,6
+                                                                                         138,6
+      2014         2015          2016             2017                                     2014             2015              2016  2017
+                        R$        1.230 BI                                                                                  153,9 MI
+* Valores dos anos anteriores foram revistos pela Associação
+  Brasileira das Empresas de Cartões de Crédito e Serviços (ABECS).
+
+14                                                                               RELATÓRIO ANUAL 2017
+CENÁRIO ECONÔMICO
+                 Em 2017, a atividade econômica no País seguiu em trajetória de retomada
+          gradual, evidenciada por quatro aumentos trimestrais consecutivos do PIB na margem,
+          e encerrou com crescimento de 1,0% após dois anos de forte retração.
+                 Considerado esse contexto e consideradas as perspectivas mais positivas em
+          relação à continuidade da recuperação, as projeções de mercado para o crescimento
+          anual do PIB em 2018 e 2019 situam-se em torno de 2,75% ao ano, o que traduz
+          perspectivas mais favoráveis no médio prazo.
+                 Do lado da oferta, destaca-se o resultado positivo da indústria de transformação,
+          que aumentou 2,4% no último ano após recuar 17% no acumulado de 2014 a
+          2016, segundo a Pesquisa Industrial Mensal (PIM-IBGE). Também impulsionaram o
+          PIB de 2017 os setores da agropecuária, com alta de 13%; e de serviços, ainda que
+          modestamente, com avanço de 0,3%. O comércio varejista ampliado (inclui as vendas
+          de veículos e de materiais de construção) cresceu 4%, primeira alta desde 2013,
+          segundo Pesquisa Comercial Mensal (PMC-IBGE).
+                 No âmbito da demanda, destacou-se a melhora consistente do consumo
+          das famílias, com elevação de 1% no PIB de 2017. A evolução do consumo evidencia
+          principalmente o aumento gradual do poder de compra, impulsionado por redução da
+          inflação, condições mais favoráveis no mercado de trabalho e no crédito e liberações
+          extraordinárias de recursos do Fundo de Garantia do Tempo de Serviço (FGTS).
+                 Ainda em relação à demanda, os investimentos (Formação Bruta de Capital
+          Fixo – FBCF) voltaram a crescer no 4T17 na base anual, o que não ocorria desde o
+          1T14, com alta de 3,8% ao ano. A FBCF registrou recuperação na margem ao longo de
+          todo o ano de 2017, o que repercutiu melhora gradativa na importação e na produção
+          de bens de capital, bem como evolução na produção de insumos de construção civil
+          e de máquinas e equipamentos associados ao setor. Tal evolução, em conjunto com
+          indicadores de confiança de empresários, sugere que os investimentos continuarão
+          reagindo após a forte retração de 2014 a 2016.
+                 Por fim, a taxa de desemprego, divulgada pela Pesquisa Nacional por Amostra
+          de Domicílios Contínua (PNAD Contínua – IBGE), atingiu 11,8% no último trimestre
+          de 2017, após superar 13,5% durante o ano. Embora a redução da taxa de desocupação
+          reflita em boa parte um aumento de ocupados em categorias informais, revela
+          também reversão expressiva na dinâmica de criação de empregos no mercado formal.
+          Quanto à renda do trabalhador, a queda da inflação em curso segue favorecendo a
+          recuperação gradual de seu poder aquisitivo. De acordo com dados da PNAD Contínua,
+          o rendimento médio real habitual de todos os trabalhos aumentou 1,6% no 4T17 ante
+          o 4T16, e a massa salarial cresceu 3,6% nessa mesma comparação.
+
+DINÂMICA DO SETOR BANCÁRIO 2017                                                           15
+CRÉDITO
+         O saldo total das operações de crédito do Sistema Financeiro Nacional (SFN)
+declinou 0,6% em 2017, após recuo nominal de 3,5% em 2016.
+         Em 2017, as variações foram de -3,0% no crédito direcionado e +1,7% no crédito
+livre, este basicamente por conta do desempenho do segmento de pessoas físicas (PF), com
++5,2%, ante queda no segmento de pessoas jurídicas (PJ), (-2,0%). No crédito direcionado,
+o saldo de PF cresceu (+6,2%), enquanto de PJ recuou (-11,6%).
+         De modo geral, a carteira de PF seguiu mostrando maior dinamismo ao longo
+do ano, em contexto de melhora gradativa do mercado de trabalho, forte redução da
+inﬂação e dos juros, importante desalavancagem de dívidas das famílias e consequente
+recuperação gradual do consumo e do varejo.
+         Destacaram-se na evolução do saldo de crédito às pessoas físicas em 2017: o
+aumento no saldo de empréstimos no crédito consignado (+7,9%), aquisição de veículos
+(+4,3%), cartão de crédito à vista (+11,8%), financiamento imobiliário (+5,7%) e crédito
+rural (+8,4%). Já os saldos de cheque especial (-6,9%) e de cartão de crédito rotativo
+(-14%) recuaram.
+         Em 2017, o crédito bancário às pessoas jurídicas sofreu com a ociosidade ainda
+elevada na indústria, com a recuperação mais lenta dos investimentos e com o processo
+mais demorado de desalavancagem e restruturação das dívidas das empresas. Vale citar,
+porém, que boa parte da queda foi compensada pelo grande aumento de captações no
+mercado de capitais, consideradas tanto as emissões domésticas quanto externas.
+         Como destaques ainda positivos no crédito bancário às pessoas jurídicas,
+ressaltam-se: crescimento dos saldos nas modalidades de desconto de duplicatas
+(+51,1%), antecipação de recebíveis de cartão (+555,7%) e financiamento a importações
+(+9,3%) e exportações (+2,7%). Entretanto, houve forte queda em modalidades muito
+representativas, como capital de giro (-8,8%), conta garantida (-11,7%) e repasse externo
+(-7,0%), o que puxou o crédito à pessoa jurídica com recursos livres para o terreno
+negativo. Nas modalidades direcionadas, houve retração do crédito rural (-16,9%), de
+financiamentos imobiliários (-16,2%) e do saldo do BNDES (-11,8%), impactado por
+liquidações de operações e pelas novas políticas da instituição.
+
+16                                                                                    RELATÓRIO ANUAL 2017
+           CRÉDITO RURAL
+                   Em relação ao segmento de crédito rural, no ano agrícola 2016/2017 (1º de
+           julho de 2016 a 30 de junho e 2017), segundo dados do BACEN, o número total de
+           operações contratadas foi de 2,10 milhões, ante 2,33 milhões na safra anterior.
+                   Quanto ao volume financeiro da safra 2016/2017, o montante foi de R$ 153,5
+           bilhões, ante R$ 165,8 bilhões em 2015/2016, dos quais a maior parte foi destinada a
+           operações de custeio (59,6%) e de investimento (23,1%).
+                   É importante destacar a tendência de crescimento no volume de recursos
+           oriundos da emissão de Letras de Crédito do Agronegócio (LCA). Na safra 2016/2017,
+           esses títulos representaram 11,2% do total de operações contratadas (R$ 17,1 bilhões),
+           ante 8,1% do período anterior (R$ 13,4 bilhões).
+                   Cabe salientar que, desde o ano agrícola 2015/2016, passou a vigorar o direcionamento
+           dos recursos captados pela emissão de LCA para o financiamento da agricultura.
+                   Ainda assim, a maior parcela dos volumes (R$ 48,3 bilhões ou 31,5% do total)
+           provém dos recursos obrigatórios, com taxas de juros fixas estabelecidas para o
+           financiamento. O saldo total da carteira de crédito rural, em julho de 2017, foi R$
+           241,8 bilhões, ante R$ 234,0 bilhões em julho de 2016.
+JUROS E SPREAD
+                   A taxa média de juros das operações de crédito ficou em 25,6% ao ano no
+           fim de 2017, recuo de 6,6 pontos percentuais (p.p.) em relação ao ano anterior, em
+           linha com o ciclo da política monetária e queda da Selic. Houve redução de 11,9 p.p.
+           no segmento de recursos livres e de 1,5 p.p. no âmbito das operações com recursos
+           direcionados. Destaca-se, no crédito livre, a queda de 17,3 p.p. nas taxas para pessoa
+           física e de -6,6 p.p. para pessoa jurídica.
+                   Vale lembrar que o BC divulga, desde abril de 2017 (com dados desde 2013), o
+           Indicador de Custo do Crédito (ICC), que permite avaliar o custo médio considerando
+           o efeito das taxas contratadas no passado. Por razões metodológicas, a taxa de juros
+           no crédito com recursos livres é muito impactada por modalidades com prazos de
+           vencimento diferentes.
+                   Portanto, para uma visão mais completa do custo do crédito e dos spreads
+           bancários, devem-se combinar taxas, concessões, saldos e prazos das operações. O
+           ICC é a medida mais exata para base de cálculo.
+                   Considerando-se as medidas do ICC no fim de 2017, o spread do crédito livre
+           para pessoa física ficou em 37,0% a.a. e para pessoa jurídica, em 12,8% a.a. Já no
+           direcionado, o spread para PF ficou em 3,3% a.a. e 3,6% a.a. para PJ.
+
+DINÂMICA DO SETOR BANCÁRIO 2017                                                                         17
+TAXA DE INADIMPLÊNCIA E ENDIVIDAMENTO
+        Em 2017, a inadimplência (acima de 90 dias) da carteira de PJ apresentou recuo
+de 3,5% para 2,9% e a carteira de PF, de 3,9% para 3,5%. A taxa total passou de 3,7%
+para 3,2%.
+        Os atrasos (de 15 a 90 dias) também diminuíram em relação a dezembro de
+2016, de 4,5% para 4,4% no total, e alcançaram 2,2% em pessoas jurídicas (-0,9 p.p.)
+e 6,3% em pessoas físicas (+0,5 p.p.).
+        Observa-se que atrasos e inadimplência no crédito registraram alta entre
+2015 e meados de 2017, momento mais agudo da recessão econômica, com níveis
+historicamente elevados. A reversão a partir de 2017 confirmou-se ao longo do ano,
+com a retomada gradual do crescimento do varejo e da indústria.
+TAXA DE INADIMPLÊNCIA E ENDIVIDAMENTO
+ 5,5
+ 5,0
+ 4,5
+                                                                            4,5                 4,4
+ 4,0
+ 3,5                                                                        3,7
+ 3,0                                                                                            3,2
+ 2,5
+ 2,0
+                                                                                Fonte: Banco Central.
+ 1,5
+  DEZ. 2012        DEZ. 2013        DEZ. 2014          DEZ. 2015         DEZ. 2016            DEZ. 2017
+                               Atraso (entre 15 e 90 dias) – total (%)
+                               Inadimplência (acima de 90 dias) – total (%)
+
+18                                                                                                          RELATÓRIO ANUAL 2017
+CAPTAÇÃO DE RECURSOS
+                                          O sistema bancário segue contando com recursos estáveis em volume suficiente
+                                   para financiar suas atividades, tanto de curto como de longo prazo.
+                                          A estrutura de captação dos bancos brasileiros não sofreu grande alteração
+                                   em 2017, sendo ainda predominantemente via depósitos a prazo, de poupança e à
+                                   vista, que respondem por pouco mais de 30% do total captado, bem como emissão
+                                   de letras financeiras, imobiliárias e do agronegócio, além de repasses do BNDES e
+                                   captações no mercado aberto.
+                                          Em 2017, houve continuidade do processo de migração das operações
+                                   compromissadas, sobretudo dos depósitos a prazo, como efeito da Resolução
+                                   4.527/2016, que vedou a realização, a prorrogação ou a renovação de operações
+                                   compromissadas com títulos de emissão ou o aceite de instituições ligadas ou
+                                   integrantes do mesmo conglomerado prudencial.
+                                          Essa categoria apresentou crescimento de 19,4% em relação a 2016, ante
+                                   +13,6% no ano anterior. Adicionalmente, o movimento de redução da taxa básica de
+                                   juros da economia favoreceu a recuperação da captação de recursos via poupança,
+                                   com elevação de 9% em 2017, ante +1,3% no período anterior.
+VOLUME DE CAPTAÇÕES (R$ BILHÕES)
+                                                                                                               4.401 5.094
+                                                                                                      3.830
+                                                                                           3.538
+                                                                                  3.307
+                                                                           3.101
+                                                                2.791
+                                                       2.443
+                                                2.114
+                                       1.870
+                            1.595
+              1.370
+ 1.162
+  2005         2006           2007      2008     2009    2010    2011        2012  2013      2014      2015     2016     2017
+  Depósitos à vista              Depósitos de poupança       Depósitos a prazo     Fundos (FIF total)
+Fonte: Banco Central do Brasil.
+
+DINÂMICA DO SETOR BANCÁRIO 2017                                                                                19
+MARGEM DE JUROS (CRÉDITO E TÍTULOS)
+        Segundo o Relatório de Estabilidade Financeira do Banco Central do Brasil, de
+dezembro de 2017, a margem bruta de juros – que representa a diferença entre o retorno
+da carteira de crédito e títulos e o custo de captação – manteve-se praticamente
+estável ao longo do segundo semestre.
+        Apesar da redução da rentabilidade das operações de crédito, decorrente de
+menores taxas cobradas nas novas operações em consonância com a redução da taxa
+Selic, esse efeito é mais do que compensado pela redução dos custos de captação, o
+que resultou algum ganho na margem bruta de crédito.
+        Entretanto, ao considerar a margem bruta de juros mais abrangente (crédito
+mais títulos), a queda do spread na intermediação de títulos e valores mobiliários
+praticamente anula esse ganho.
+   MARGEM DE JUROS (CRÉDITO E TÍTULOS) – %
+                                                                                                               12,0
+                                                                                                                9,6
+                                                                                                                 7,2
+                                                                                                                4,8
+                                                                                                                2,4
+                                                                                                                0,0
+ JUN.     DEZ.     JUN.     DEZ.       JUN. DEZ.   JUN.       DEZ.      JUN.     DEZ.  JUN.      DEZ.   JUN. DEZ.
+ 2011              2012                2013        2014                 2015           2016             2017
+         Margem bruta (crédito + títulos)     Margem líquida (crédito + títulos)      Custo de captação
+
+20                                                                                                       RELATÓRIO ANUAL 2017
+RESILIÊNCIA DO SETOR BANCÁRIO – ÍNDICE DE BASILEIA
+                                          A estabilidade financeira depende da resiliência das instituições para absorver
+                                   riscos e choques. Nesse sentido, o sistema bancário apresenta sólidos índices de
+                                   capitalização e baixa alavancagem, tanto em relação à regulação atual quanto às
+                                   regras de Basileia III.
+                                          Em 2017, o sistema bancário operou com índices de capital bastante superiores
+                                   aos requerimentos regulatórios, mesmo ao se considerar o ambiente econômico
+                                   adverso no ano, refletido no desempenho dos indicadores de rentabilidade.
+                                          O Índice de Basileia (Capital Total) dos bancos brasileiros teve elevação, em
+                                   2017, de 17,4% para 18,2%, o que confirma a adaptação dos bancos brasileiros aos
+                                   novos requisitos prudenciais de Basileia III, cujo cronograma se estende até 2022.
+                                          No que se refere ao Capital Principal, de maior qualidade, os bancos registraram
+                                   índice de 13,52% em dezembro de 2017, ante 12,72% no mesmo mês de 2016, o que
+                                   também reforça a solidez dessas instituições.
+EVOLUÇÃO DO ÍNDICE DE BASILEIA
+                                                                                                                     18,2
+                                                                                                  17,2      17,4
+                                16,9                           16,7
+  16,4          16,4                                                       16,3           16,5
+                                          16,1                                    16,3
+                                                   15,5
+                                                                                                                     595.578
+                                                                                 504.567 541.057 541.621 566.617
+                                                 461.988 478.827         500.405
+411.510 434.786 428.430 444.919
+   JUN.         DEZ.            JUN.      DEZ.     JUN.        DEZ.        JUN.    DEZ.   JUN.    DEZ.      JUN.       DEZ.
+   2012         2012            2013      2013     2014        2014        2015    2015   2016    2016      2017       2017
+         Patrimônio Líquido (R$ milhões)*              Índice de Basileia (%)
+Fonte: Banco Central do Brasil.
+* Conforme segmentação BACEN – B1 e B2.
+
+DINÂMICA DO SETOR BANCÁRIO 2017 21
+PA RT E I I
+A FEBRABAN
+MISSÃO, VISÃO E VALORES
+PRINCIPAIS PRODUTOS E SERVIÇOS
+PLANEJAMENTO ESTRATÉGICO
+PÚBLICOS DE RELACIONAMENTO
+PARCERIAS E COMPROMISSOS
+DIÁLOGOS COM A SOCIEDADE
+50 ANOS DA FEBRABAN
+
+
+24                                                                                        RELATÓRIO ANUAL 2017
+A FEBRABAN
+A FEBRABAN MANTÉM O
+COMPROMISSO DE CONSTRUIR
+UM BRASIL MAIS RICO, MAIS
+JUSTO, MAIS DEMOCRÁTICO E
+MAIS SUSTENTÁVEL
+                   Organização sem fins lucrativos, a Federação Brasileira de Bancos (FEBRABAN) é a
+           principal entidade representativa do setor. Seu quadro de associados conta com 122 instituições
+           financeiras, que respondem por 97% do patrimônio líquido e 98% dos ativos totais de todo o
+           segmento no Brasil. GRI 102-1 | 102-4 | 102-5 | 102-6 | 102-7
+                   A FEBRABAN finalizou o ano de 2017 com 112 funcionários, além de seis estagiários/
+           aprendizes e 14 profissionais terceirizados. Sua estrutura contempla sete diretorias executivas,
+           formadas por profissionais que atuam em contato direto com os representantes de bancos e
+           instituições financeiras. GRI 102-7 | 102-8
+                   Ressalta-se que a FEBRABAN possui 426 fornecedores cadastrados, que abrangem
+           contratos de prestação de serviços (consultoria, assessoria e auditoria); e fornecimento de bens
+           e materiais para todas as suas áreas de atuação. Essas empresas, em sua grande maioria, são
+           nacionais e estão localizadas em São Paulo, no Rio de Janeiro e em Brasília. GRI 102-9
+                   Localizada na cidade de São Paulo, a FEBRABAN tem entre seus objetivos permanentes:
+           representar seus associados em todas as esferas do governo, interagir com autoridades e
+           instituições na elaboração e no aperfeiçoamento do sistema normativo, desenvolver iniciativas
+           para melhorar a produtividade do setor bancário e direcionar esforços para viabilizar o acesso
+           da população a produtos e serviços financeiros, de modo que contribua para o fortalecimento
+           do mercado e o crescimento do Brasil. GRI 102-3 | 102-6 | 102-16
+                   Comprometida com princípios de ética e integridade, a FEBRABAN mantém o Programa
+           de Conformidade com a Legislação de Defesa da Concorrência com vistas a sensibilizar
+           associados e colaboradores sobre a importância do compliance na prevenção de infrações
+           de ordem econômica, bem como suas consequências adversas. A íntegra do documento está
+           disponível em portal.febraban.org.br. GRI 102-16 | 102-3 | 103-3
+
+A FEBRABAN                                                                                             25
+MISSÃO, VISÃO E VALORES                                                                     GRI 102-16
+             MISSÃO
+                       C
+                        ontribuir para o desenvolvimento econômico, social e sustentável
+                       do País, representando os seus associados e buscando a melhoria
+                       contínua do sistema financeiro e de suas relações com a sociedade.
+             VISÃO
+                        anter um sistema financeiro saudável, ético e eficiente –
+                       M
+                       condição essencial para o desenvolvimento econômico,
+                       social e sustentável do País.
+             VALORES
+                         Promover valores éticos, morais e legais
+                         Valorizar as pessoas, o trabalho e o empreendedorismo
+                          Incentivar práticas de cidadania e responsabilidade socioambiental
+                           Atuar com profissionalismo e transparência
+                           Defender o diálogo, o respeito e a transparência nas relações com
+                            clientes e com a sociedade
+                            Valorizar a diversidade e a inclusão social
+PRINCIPAIS PRODUTOS E SERVIÇOS GRI 102-2 | 102-7 | 102-11
+   Produção de estudos e notas técnicas relativas a projetos de lei no Congresso Nacional
+  Coordenação de iniciativas judiciais para a defesa do setor
+   Posicionamento nas mídias sobre temas de interesse dos associados
+   Representação do setor com as autoridades e entidades nacionais e internacionais
+   Elaboração de propostas regulatórias que visam eficiência do sistema e minimização de riscos
+   Divulgação de informações sobre produtos e serviços bancários
+  Coordenação de estudos, pesquisas e iniciativas para melhoria da imagem do setor, do atendimento e das
+   relações com os consumidores
+   Implantação e gestão da autorregulação dos bancos
+   Implantação de ações de responsabilidade social, sustentabilidade e de inclusão social
+   Capacitação dos associados
+   Negociação do contrato coletivo de trabalho do setor
+   Realização de eventos de interesse dos associados e da sociedade
+   Desenvolvimento de novos negócios voltados para a economia de baixo carbono
+
+26                                                                                     RELATÓRIO ANUAL 2017
+PLANEJAMENTO ESTRATÉGICO                       GRI 102-11 | 102-15 | 102-43 | 102-44 | 102-47 | 103-1
+                   Elaborado anualmente, o planejamento estratégico envolve a definição de
+          temas, projetos, orçamento e metas, e sua aprovação pelo Conselho Diretor.
+                   Desse processo, cinco temas estratégicos foram priorizados para a atuação da
+          FEBRABAN em 2018:
+             Imagem pública do setor
+             Relações trabalhistas
+             Impacto da revolução digital no negócio bancário
+           Tributação do sistema bancário
+             Melhoria do ambiente de crédito
+                   Outros temas relevantes:
+             Planos econômicos e índice de correção monetária
+             Regulação prudencial
+           Qualidade dos serviços bancários/Relacionamento com clientes
+             Segurança bancária, prevenção à fraude e compliance
+             Responsabilidade socioambiental
+           Autorregulação bancária
+           Aumento da eficiência
+             Educação profissional e financeira
+                   Os projetos são priorizados com base em quatro critérios: alinhamento
+          estratégico, benefícios, mandatoriedade e complexidade de implantação.
+                   Como última etapa do processo de planejamento estratégico, as metas para
+          FEBRABAN e para as diretorias internas passam pela aprovação do Comitê de Metas
+          da Diretoria Executiva e do Conselho Diretor. A Diretoria de Planejamento e Gestão de
+          Projetos monitora a evolução do portfólio e o cumprimento de metas.
+                   Ressalta-se que há duas categorias de metas:
+            Q
+             ualitativas: avaliadas em pesquisas de satisfação com os participantes das comissões
+             técnicas, Diretoria Executiva e usuários de serviços da FEBRABAN e instituições
+             ligadas, conduzidas por empresa de consultoria independente.
+            Quantitativas: estabelecidas com base em resultados observáveis objetivamente e
+             avaliadas pelas diretorias internas, revisadas pelo PMO e aprovadas pela Diretoria
+             Executiva e pelo Conselho Diretor.
+                   Ao longo de 2018, serão examinadas oportunidades de aperfeiçoamento do
+          processo de planejamento estratégico, com base em experiências do setor bancário.
+
+A FEBRABAN                                                                          27
+PÚBLICOS DE RELACIONAMENTO               GRI 102-40 | 102-42
+                              ASSOCIADOS        FUNCIONÁRIOS
+            ORGANISMOS                                       SINDICATOS
+        INTERNACIONAIS
+OUTROS SETORES                                                          ASSOCIAÇÕES
+   ECONÔMICOS                                                           DE CLASSE
+          DEMANDAS E
+        COMPROMISSOS
+           DO SETOR
+          FINANCEIRO
+      IMPRENSA                                                          SOCIEDADE
+            FORMADORES
+              DE OPINIÃO                                     REGULADORES
+                                                             DO SISTEMA
+                                                             FINANCEIRO
+                               ENTIDADES        PODERES
+                         REPRESENTATIVAS        CONSTITUÍDOS
+                           DA SOCIEDADE
+
+28                                                                                       RELATÓRIO ANUAL 2017
+PARCERIAS E COMPROMISSOS GRI 102-12 | 102-13
+                  A FEBRABAN participa como membro de associações e organizações nacionais ou
+           internacionais relacionadas ao seu setor de atuação e/ou mantém parcerias e compromissos
+           que defendam temas comuns. Entre elas, destacam-se as instituições a seguir.
+                        F ederação Latino-Americana de Bancos (FELABAN), na qual representa o setor
+                         financeiro brasileiro, o maior da região, em vários comitês.
+                    
+                    Comitê Gestor do Cadastro Empresa Pró-Ética, responsável por analisar
+                      pedidos de inclusão de empresas no cadastro e deliberar sobre a admissão,
+                      bem como por promover atualização dos requisitos para integrá-lo.
+                    Comitê Nacional de Educação Financeira (CONEF), no qual o objetivo é definir
+                      planos, programas e ações e coordenar a execução da Estratégia Nacional de
+                      Educação Financeira (ENEF).
+                         Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro
+                          (ENCCLA), a principal rede de articulação para arranjo e discussões em
+                          conjunto com diversos órgãos de diferentes esferas para a formulação de
+                          políticas públicas voltadas ao combate desses crimes.
+                          Institute of International Finance (IIF), que reúne representantes da indústria
+                           financeira, de seguradoras, escritórios de advocacia, consultorias e reguladores,
+                           entre outros, de todos os países do mundo.
+                           International Banking Federation (IBFED), que agrega bancos da Europa, Ásia,
+                           África, Oceania, América do Norte e América do Sul – o Brasil é o único país
+                           convidado a participar dessa federação.
+                      Sustainable Banking Networking (SBN), organização integrada por associações/
+                        federações bancárias e bancos centrais de países emergentes.
+                     United Nations Environment Program/Finance (UNEP FI), programa no qual a
+                      FEBRABAN atua como federação de suporte.
+                   Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+                    (ANBIMA), que reúne diversas instituições, como bancos, gestoras,
+                    corretoras, distribuidoras e administradoras.
+                       Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE), que tem,
+                        entre suas atividades, planejar, coordenar e orientar programas técnicos,
+                        projetos e atividades de apoio às micro e pequenas empresas, em conformidade
+                        com as políticas nacionais de desenvolvimento, particularmente aquelas
+                        relativas às áreas industrial, comercial e tecnológica.
+
+A FEBRABAN                                                                                          29
+DIÁLOGOS COM A SOCIEDADE GRI 102-40 | 102-42 | 102-43 | 102-44
+        Por meio de portais e canais de informação e interação,
+de participação e realização de eventos, de condução e
+                                                                        O CIAB 2017 bateu
+divulgação de estudos e estatísticas do setor bancário, entre          recordes de público:
+outros, a FEBRABAN dissemina conhecimento e marca seu
+posicionamento sobre assuntos de interesse das instituições                   mais de 21 mil
+financeiras e de seus demais stakeholders.
+        Entre essas atividades, destaca-se o Congresso e Exposição       visitantes, 3,74 mil
+de Tecnologia da Informação das Instituições Financeiras (CIAB),
+reconhecido pelo debate de importantes temas e pelo lançamento
+                                                                   congressistas (dos quais
+de inovações que simplificam as transações bancárias e deixam       120 eram estrangeiros
+os serviços mais intuitivos e práticos para o cliente.
+        Em 2017, o CIAB teve como tema central “Ser Digital” e     de 38 diferentes países)
+abordou tecnologias disruptivas, experiências do cliente com
+novos produtos e soluções e novas oportunidades de negócios
+                                                                        e 280 palestrantes,
+para as instituições financeiras.                                          que debateram a
+        Ressalta-se que, durante o evento, também ocorreu o
+Fintech Day, competição que envolveu 21 startups de serviços         transformação digital
+financeiros; e o 1º Hackathon CIAB (maratona de programação),
+com mais de 400 programadores inscritos.
+                                                                          do setor bancário
+        Destaca-se que outros eventos, como o Seminário
+de Relacionamento com Clientes (SEMARC), o Congresso
+Internacional de Gestão de Riscos e o Congresso de Prevenção à
+Lavagem de Dinheiro e ao Financiamento do Terrorismo, atraem
+cada vez mais participantes especializados nesses segmentos.
+        Em 2017, a FEBRABAN promoveu 44 eventos, com 27.278
+participantes, aumento de 29% e 22,6%, respectivamente em
+relação ao ano anterior, o que contribuiu para o fortalecimento de
+sua imagem e do setor que representa.
+        A FEBRABAN trabalha incessantemente para atingir
+os melhores resultados. Após o término dos eventos, realiza
+pesquisas interativas ou por aplicativos para avaliar a percepção
+dos participantes quanto ao conteúdo técnico dos painéis e à
+organização, bem como para planejar ações de melhoria em
+futuras edições. Em 2017, o índice de satisfação foi de 95% (ótimo
+e bom). GRI 102-43 | 102-44
+        Ressalta-se ainda a divulgação de temas de interesse
+dos bancos e da sociedade em geral por meio de workshops,
+coletivas de imprensa, entrevistas, entre outros, para fortalecer
+a imagem do setor.
+        A presença positiva da FEBRABAN na cobertura da imprensa
+                                                                                   CONFIRA TODAS AS
+subiu 17% em relação ao ano anterior: passou de 2.375 para 2.462               AÇÕES DA FEBRABAN EM
+notícias em 2017.                                                               portal.febraban.org.br
+
+30                                                                               RELATÓRIO ANUAL 2017
+50 ANOS DA FEBRABAN
+                 Criada em 1967 para apoiar os bancos na interlocução com o setor público em
+         um momento de profunda mudança na economia, a FEBRABAN participou de episódios
+         decisivos da história do Brasil.
+                 A atuação da FEBRABAN e do setor bancário brasileiro permitiu interligar a
+         sociedade e a economia com um sofisticado e eficiente sistema de pagamentos em
+         todo o território nacional, entre outras iniciativas que envolveram coragem, segurança,
+         criatividade, muita tecnologia e, sobretudo, o elemento humano.
+                 Para celebrar essa trajetória, a entidade produziu um selo comemorativo e fez o
+         lançamento do livro FEBRABAN 50 anos, com os detalhes da atuação dos bancos neste
+         meio século de história do País.
+                 A edição – além do relato objetivo da história da organização e de informações
+         pouco conhecidas sobre o que tornou o setor bancário um fator de estabilidade contra
+         as crises no País – é complementada por crônicas de Ignácio de Loyola Brandão, com
+         um olhar sensível sobre a onipresença dos bancos na vida e na imaginação das pessoas,
+         como a história de um engenheiro que, ao lado de uma árvore centenária na Amazônia,
+         conecta-se por meio de um aplicativo bancário às demandas da vida contemporânea.
+                 O livro FEBRABAN 50 anos encontra-se disponível em portal.febraban.org.br/50anos.
+
+GOVERNANÇA                                                                               31
+GOVERNANÇA
+CONSELHOS E DIRETORIAS LIDERAM O
+APRIMORAMENTO DA GOVERNANÇA
+DO SISTEMA BANCÁRIO EM
+BENEFÍCIO DA SOCIEDADE
+ESTRUTURA DE GOVERNANÇA GRI 102-18
+       A estrutura de governança da FEBRABAN reúne conselhos, compostos por
+representantes dos bancos associados e de outros setores econômicos, e diretorias
+formadas por profissionais que atuam em contato direto com esses segmentos.
+       A FEBRABAN lidera 26 comissões técnicas, das quais 15 são comissões
+executivas e 11, comissões setoriais, que desenvolvem estudos e atividades que
+orientam as práticas da entidade e de seus associados.
+       Esses fóruns funcionam permanentemente sob a coordenação de um diretor da
+entidade e de um diretor setorial, pertencentes ao quadro de funcionários de um dos
+associados, e supervisionados pela Diretoria Executiva. Além desses, há subcomissões
+e grupos de trabalho para exame de temas específicos com foco no aprimoramento da
+governança do sistema bancário em benefício da sociedade.
+       Faz parte também da estrutura geral da FEBRABAN a Federação Nacional dos Bancos
+(FENABAN), o braço sindical do sistema financeiro, que representa os associados em todas
+as questões trabalhistas e nas negociações dos acordos coletivos de âmbito nacional.
+       As instituições integrantes dos Conselhos e da Diretoria Executiva estão
+disponíveis em portal.febraban.org.br, em Nossa Estrutura.
+
+32                                                                                                                RELATÓRIO ANUAL 2017
+ASSEMBLEIA GERAL
+     Máxima instância decisória, delibera sobre propostas dos órgãos de administração.
+      Formada por representantes das instituições associadas à FEBRABAN.
+CONSELHO DIRETOR                                                            CONSELHO CONSULTIVO
+       Estabelece a orientação geral das atividades da
+                                                                               Manifesta-se sobre temas por convocação do seu
+     FEBRABAN e sua correta execução.                                           presidente.
+       
+       É composto por representantes das instituições                          É composto por 16 conselheiros: sete do sistema bancário
+     associadas, reúne o mínimo de 18 e o máximo de 30                         público e privado e nove de outros setores produtivos,
+     integrantes, com mandato de três anos.                                    da sociedade civil e com reconhecido saber em áreas de
+                                                                               interesse da entidade, com mandato de 18 meses.
+CONSELHO FISCAL                                                             CONSELHO DE AUTORREGULAÇÃO
+       Examina as demonstrações financeiras, as cartas e o                      Possui caráter normativo e de administração do
+                                                                                 
+     relatório anual de gestão.                                                    Sistema de Autorregulação Bancária.
+        Fiscaliza a gestão administrativa.                                      Edita normativos e estabelece diretrizes, políticas,
+  Acompanha a auditoria interna contratada.                                       regras e procedimentos de autorregulação.
+    É composto por três membros efetivos e três suplentes,                       É composto por representantes dos bancos associados
+    com mandatos de três anos.                                                     e da sociedade civil, com mandato de três anos.
+DIRETORIA EXECUTIVA                                                         COMISSÕES TÉCNICAS
+   Cumpre as deliberações da Assembleia Geral e do                                Desenvolvem estudos e atividades, bem como
+                                                                                   
+    Conselho Diretor e é responsável pela administração                            encaminham soluções que envolvem demandas de
+    e gestão das atividades da FEBRABAN.                                           seus associados e do setor financeiro nacional.
+         É composta por um presidente e um vice-presidente                   São compostas por Comissões Executivas e Comissões
+     executivo, indicados pelo Conselho Diretor, bem como                      Setoriais, sob a responsabilidade, respectivamente,
+     por até 15 diretores eleitos entre administradores                        de um diretor da FEBRABAN e de um diretor setorial
+     estatutários das Associadas Nível I1; e por até cinco                     (titular e suplente).
+     diretores representantes das Associadas Nível II2, com
+     mandato de três anos.
+1. Instituições financeiras bancárias, com atuação no território nacional.
+2. Entidades financeiras ou empresas com atividade congênere ou complementar à atividade bancária.
+
+GOVERNANÇA                                                                                                                                          33
+DIRETORIAS
+DIRETORIA DE                                                       DIRETORIA DE               DIRETORIA                            DIRETORIA DE
+REGULAÇÃO                                                          AUTORREGULAÇÃO             DE RELAÇÕES                          ADMINISTRAÇÃO,
+PRUDENCIAL, RISCOS                                                 COMISSÕES                  DO TRABALHO                          FINANÇAS E TI
+E ECONOMIA                                                            Ouvidoria e relações   COMISSÃO
+COMISSÕES                                                              com clientes             Recursos Humanos                  DIRETORIA DE
+       Ambiente de crédito                                            SACs                                                       PLANEJAMENTO
+          Gestão de riscos                                                                   DIRETORIA                            E GESTÃO
+        Assuntos contábeis                                        DIRETORIA                  DE EVENTOS                           DE PROJETOS
+         Auditoria interna                                        JURÍDICA
+           Compliance                                             COMISSÕES
+            Negócios internacionais                                 Assuntos jurídicos
+             Prevenção à lavagem de                               Tributária
+             dinheiro e ao financiamento
+             do terrorismo
+DIRETORIA DE NEGÓCIOS E OPERAÇÕES                                                             DIRETORIA DE                         DIRETORIA
+ COMISSÕES                                                Prevenção à fraude                 COMUNICAÇÃO                          DE RELAÇÕES
+ Assuntos do BNDES                                        Produtos Bancários PF             COMISSÃO                             INSTITUCIONAIS
+  Crédito consignado                                       Produtos bancários PJ             Comunicação                        COMISSÃO
+   Crédito rural                                            Relações com                                                           Responsabilidade
+     Financiamento de                                        poder público                                                          social e
+     veículos                                            Segurança bancária                                                         sustentabilidade
+      Inovação                                         Tecnologia
+    Operações de tesouraria e automação bancária
+COMISSÕES TÉCNICAS
+                                  Ambiente de crédito                                                        Assuntos contábeis
+                                   Assuntos jurídicos                                                         Assuntos do BNDES
+                                    Crédito consignado                                                         Auditoria interna
+                                        Financiamento de veículos                                               Compliance
+                                     Gestão de riscos                                                            Comunicação
+COMISSÕES                                Inovação                                          COMISSÕES              Crédito rural
+EXECUTIVAS                            Operações de tesouraria                               SETORIAIS                Negócios internacionais
+                                          Prevenção à fraude                                                       Ouvidorias e relações
+                                           Produtos bancários PF                                                    com clientes
+                                            Produtos bancários PJ                                                     Prevenção à lavagem
+                                             Recursos humanos                                                        de dinheiro e ao
+                                              Relações com poder público                                             financiamento do
+                                       Segurança bancária                                                            terrorismo
+                                Tecnologia e automação bancária                                                        Responsabilidade social
+                                 Tributária                                                                          e sustentabilidade
+                                                                                                                     SACs
+
+34                                                                                RELATÓRIO ANUAL 2017
+CAPITAL HUMANO
+                 A FEBRABAN considera o desenvolvimento de seus funcionários fundamental para
+          o bom desempenho da organização. Por meio de treinamentos e programas de capacitação
+          e avaliação de desempenho, incentiva a todos para que deem o seu melhor em suas áreas
+          de atuação. GRI 103-2
+                 Todos os funcionários trabalham na sede da Federação (São Paulo) e são
+          contratados por tempo indeterminado e em período integral. Compõem também
+          essa estrutura estagiários, aprendizes e colaboradores terceirizados. GRI 102-8
+                 Com base nas metas estabelecidas no planejamento estratégico, o processo
+          de análise de desempenho engloba avaliação anual, feedback informal quando
+          necessário, e formal, e abrange 100% dos funcionários. GRI 404-3
+                 Todos os funcionários CLT têm à disposição um conjunto de benefícios
+          composto por assistência médica, previdência privada complementar, seguro de vida,
+          assistência funeral e vales (refeição, alimentação e transporte). GRI 401-2
+                 O Portal RH permite acessar dados cadastrais e consultar documentos, demonstrativos
+          de pagamentos, calendário de férias, informe de rendimentos e histórico salarial, entre
+          outros. GRI 103-2 | 103-3
+                 Em 2017, a estrutura da FEBRABAN era composta por 112 funcionários CLT
+          (60 mulheres e 52 homens), 100% cobertos por acordos de negociação coletiva;
+          seis estagiários/aprendizes (três mulheres e três homens), em um total de 118
+          colaboradores; além de 14 profissionais terceirizados (nove mulheres e cinco homens).
+          GRI 102-7 | 102-8 | 102-41
+                 Ressalta-se que também fazem parte dessa estrutura o Instituto FEBRABAN de
+          Educação (INFI), com 16 funcionários CLT (onze mulheres e cinco homens); e a Central de
+          Exposição de Derivativos (CED), com três funcionários CLT (uma mulher e dois homens).
+          Todos são contratados em regime integral e 100% cobertos por acordos de negociação
+          coletiva, bem como usufruem dos benefícios e recebem avaliação de desempenho.
+          GRI 102-7 | 102-8 | 102-41 | 401-2 | 404-3
+                 Em 2017, quatro profissionais usufruíram de licença-maternidade/paternidade
+          (duas mulheres e dois homens) e permaneceram no trabalho por, pelo menos, um ano
+          após o término do direito, o que corresponde à taxa de retorno e retenção de 100%
+          em ambos os casos. GRI 401-3
+                 Com o objetivo de manter profissionais tecnicamente capacitados para execução
+          de suas atividades, em 2017 foram disponibilizadas 1.278 horas de treinamento para
+          os funcionários da FEBRABAN, das quais foram 699 para mulheres e 579 para homens,
+          o que totalizou a média de 11,41 horas/funcionário. Entre os homens, a média ficou
+          em 11,13 horas/funcionário e entre as mulheres, em 11,65, o que demonstra equilíbrio
+          entre os gêneros. GRI 404-1
+                 Para o INFI, o total de horas de treinamento disponibilizadas foi de 233 para as
+          11 mulheres alocadas, com o número médio de 21,18 horas. GRI 404-1
+
+GOVERNANÇA                                                                                                                                      35
+    INDIVÍDUOS RESPONSÁVEIS PELA GOVERNANÇA, POR GÊNERO – 2017 GRI 405-1
+                                                                                TOTAL         MULHERES            %         HOMENS               %
+ Conselho Consultivo                                                                 14                  1         7                  13        93
+ Conselho Diretor                                                                     19                 1         5                  18        95
+ Diretoria Executiva                                                                 14                  1         7                  13        93
+    PERFIL DO PÚBLICO INTERNO – 2017 GRI 102-8
+                                                                     FEBRABAN                           INFI                           CED
+    Força de trabalho                                        Mulheres          Homens         Mulheres        Homens        Mulheres        Homens
+ F uncionários CLT                                                   60              52              11              5               1             2
+  (trabalham em período integral)
+  E stagiários e aprendizes (trabalham                                 3               3              -              -               -              -
+   meio período ou tempo parcial)
+   Total                                                              63              55              11              5               1             2
+   NÚMERO DE COLABORADORES POR CATEGORIA FUNCIONAL E POR GÊNERO – 2017* GRI 102-8
+ Categoria
+ funcional                           FEBRABAN                                         INFI                                       CED
+                         Total Mulheres       % Homens         %     Total Mulheres        % Homens        %    Total Mulheres       % Homens        %
+   Diretoria                14         1      7         13    93         1         -        -       1     100       1         -       -       1    100
+   Gerência                 12        3      25          9     75        1         -        -       1     100       -         -       -        -       -
+   Coordenação               1         1    100          -       -       -         -        -       -       -       -         -       -        -       -
+   Técnico                  40       22      55         18    45         1         1      100       -       -       2         1     50        1      50
+   Administrativo           45       33      73         12     27       13        10       77       3      23       -         -       -        -       -
+   Total                   112       60      47         52    53        16        11       69       5      31      3          1     34        2     66
+* Não fazem parte dessa estatística aprendizes e estagiários, pois possuem contratos temporários.
+   NÚMERO TOTAL E PERCENTUAL DE COLABORADORES POR CATEGORIA FUNCIONAL
+   E POR FAIXA ETÁRIA – 2017* GRI 405-1
+                                  FEBRABAN                                           INFI                                        CED
+ Categoria           Abaixo de      De 30 a        Acima de         Abaixo de      De 30 a       Acima de       Abaixo de       De 30 a      Acima de
+ funcional            30 anos       50 anos        50 anos           30 anos       50 anos        50 anos        30 anos        50 anos       50 anos
+                    Total      %  Total      %   Total       %     Total     %   Total       %  Total      %   Total     %   Total       %  Total     %
+   Diretoria            -       -     4     29      10       71        -      -       -       -     1    100       -      -       -       -      1  100
+   Gerência             -       -     7     58       5      42         -      -       -       -     1    100       -      -       -       -      -      -
+   Coordenação          -       -     1    100        -        -       -      -       -       -     -       -      -      -       -       -      -      -
+   Técnico e
+                       23      27    52      61     10       12        6     43      8       57     -       -      -      -       2     100      -      -
+   Administrativo
+* Não fazem parte dessa estatística aprendizes e estagiários, pois possuem contratos temporários.
+
+36                                                                                                               RELATÓRIO ANUAL 2017
+NÚMERO TOTAL E TAXAS DE NOVAS CONTRATAÇÕES DE EMPREGADOS E ROTATIVIDADE DE
+EMPREGADOS POR FAIXA ETÁRIA E GÊNERO – 2017 GRI 401-1
+ NÚMERO DE FUNCIONÁRIOS CONTRATADOS E TAXA DE NOVAS CONTRATAÇÕES*
+                                               FEBRABAN                                                   INFI
+ Faixa etária          Mulheres         Homens            Mulheres        Homens         Mulheres   Homens     Mulheres     Homens
+                                                                 (%)            (%)                                 (%)         (%)
+ Abaixo
+                                 2               1             15,38          16,67               -       -           -            -
+ de 30 anos
+ De 30 a
+                                 8               3             19,05          11,54              2        -       33,33            -
+ 50 anos
+ Acima
+                                  -              1                   -         5,00               -       -           -            -
+ de 50 anos
+ * Não fazem parte dessa estatística aprendizes e estagiários, pois possuem contratos temporários.
+ NÚMERO TOTAL DE FUNCIONÁRIOS DESLIGADOS E TAXA DE ROTATIVIDADE*
+                                               FEBRABAN                                                   INFI
+ Faixa etária          Mulheres         Homens            Mulheres        Homens         Mulheres   Homens     Mulheres     Homens
+                                                                 (%)            (%)                                 (%)         (%)
+ Abaixo
+                                  1              1               7,69         16,67               -       -           -            -
+ de 30 anos
+ De 30 a
+                                 7               3             16,67          11,54              1        -       17,00            -
+ 50 anos
+ Acima
+                                 3               1            60,00            5,00               -       -           -            -
+ de 50 anos
+ * Não fazem parte dessa estatística aprendizes e estagiários, pois possuem contratos temporários.
+ Observação: em 2017, para a CED, não houve movimentação quanto ao número de contratados e/ou desligados.
+
+GOVERNANÇA                                                                                                                             37
+NÚMERO MÉDIO DE HORAS DE TREINAMENTO POR FUNCIONÁRIO, DISCRIMINADO POR
+CATEGORIA FUNCIONAL E GÊNERO – 2017 GRI 404-1
+ FEBRABAN
+ HORAS DE TREINAMENTO DISPONIBILIZADAS*
+ Categoria                   Total de horas para funcionários,          Total de horas para mulheres,     Total de horas para homens,
+ funcional                              por categoria funcional                por categoria funcional          por categoria funcional
+ Gerência                                                      129                                  13                               116
+ Técnico                                                       831                                460                                371
+ Administrativo                                                318                                 226                                92
+ Total                                                       1.278                                699                               579
+ * A FEBRABAN consolida os dados de horas de treinamento para funcionários CLT.
+ MÉDIA DE HORAS DE TREINAMENTO FREQUENTADAS
+ Categoria                Média de horas por funcionário,                            Média de horas                     Média de horas
+ funcional                          por categoria funcional                           para mulheres                       para homens
+ Gerência                                               10,75                                   4,33                              12,89
+ Técnico                                                20,78                                  20,91                              20,61
+ Administrativo                                           7,07                                  6,85                                7,67
+ Total                                                  11,41                                  12,89                               11,13
+ INFI*
+                                     Horas de treinamento disponibilizadas             Média de horas de treinamento frequentadas
+ Categoria                     Total de horas               Total de horas para             Média de horas por          Média de horas
+ funcional                  para funcionários                     mulheres, por                 funcionário, por        para mulheres
+                                                            categoria funcional             categoria funcional
+ Gerência                                       -                               -                              -                       -
+ Técnico                                      34                               34                             34                      34
+ Administrativo                              199                             199                           15,31                  19,90
+ Total                                      233                              233                          14,56                   21,18
+ * O INFI consolida os dados de horas de treinamento para funcionários CLT.
+ Observação: em 2017, não participaram funcionários homens.
+
+38                                                                                RELATÓRIO ANUAL 2017
+EFICIÊNCIA NO USO DE RECURSOS GRI 103-2 | 103-3
+                    A FEBRABAN adota medidas de ecoeficiência em suas dependências a fim de
+           otimizar o uso de água, energia, papel, entre outros.
+                    Em um edifício, a FEBRABAN ocupa três andares com um total de 2.190 m² de área
+           útil. A maior parte dos gastos em energia elétrica é referente ao uso de ar-condicionado
+           para abastecer as estações de trabalho e as salas de reuniões.
+                    Ressalta-se que a FEBRABAN realiza análise mensal do consumo de energia e,
+           periodicamente, promove ações para sua redução, como substituição de 200 lâmpadas
+           fluorescentes por lâmpadas de LED em 2017. Para o próximo ano, está prevista a troca
+           de mais 400 unidades.
+                    Em busca da modernização e redução no consumo de energia elétrica, o condomínio
+           onde a FEBRABAN está localizada instalou 118 painéis fotovoltaicos em sua cobertura
+           para atender a todas as demandas de áreas comuns. A obra foi finalizada em dezembro de
+           2016 e aguarda liberação para geração de energia. GRI 302-4
+                    Em 2017, o consumo de energia teve aumento de 18% em relação ao período
+           anterior, devido à instalação de sistema de ar-condicionado com alta disponibilidade para
+           operação ininterrupta dos servidores. GRI 302-4
+           CONSUMO DE ENERGIA (GJ) GRI 302-1
+            1.400,00
+                                                                             1.244,62
+            1.200,00       1.114,58
+                                        1.055,34    1.025,79      1.019,10
+            1.000,00
+              800,00
+              600,00
+              400,00
+              200,00
+                              2013         2014        2015         2016         2017
+                 0,00
+
+GOVERNANÇA                                                                                39
+        Para melhor gestão do uso de energia, a FEBRABAN também passou a contabilizar
+o consumo de combustível dos dois automóveis de propriedade da empresa. Em 2017,
+foram 1.575,84 litros de gasolina (50,77 GJ), ante 1.560,05 (50,26 GJ) no ano anterior.
+GRI 103-2 | 103-3 | 302-1
+        Em 2017, também foram instalados medidores independentes de água em cada
+andar, o que permite o acompanhamento do consumo e incentiva o uso consciente
+desse recurso.
+        Em relação ao descarte correto de materiais, em 2017, a FEBRABAN destinou mídias
+digitais (fitas, CDs, DVDs) de forma segura e ecologicamente correta por meio de uma
+empresa especializada.
+        Nesse sentido, a FEBRABAN também iniciou projeto voltado à otimização da
+produção documental, que resultará na redução de impressões e cópias ao subsidiar os
+usuários na identificação dos documentos de valor legal e/ou histórico que justifique seu
+arquivamento, de forma a contribuir para um desenvolvimento sustentável.
+        Vale mencionar ainda que, com o objetivo de flexibilizar a participação remota de
+funcionários da FEBRABAN e dos representantes dos associados em reuniões externas,
+foi implantado um moderno sistema que permite a realização de videoconferências,
+audioconferências e webconferências a partir da própria estação do usuário, o que gera
+redução de tempo, de custos de deslocamento e de recursos, além de proporcionar maior
+participação nas reuniões.
+        Desde a implantação dessas novas soluções em abril de 2017, foram realizadas 761
+videoconferências e 754 audioconferências e webconferências.
+
+40                                                                                            RELATÓRIO ANUAL 2017
+D E S TAQ U E S I N S T I T U C I O N A I S 2 0 1 7
+A FEBRABAN INTERAGE COM
+ÓRGÃOS PÚBLICOS E PRIVADOS PARA
+APERFEIÇOAR REGRAS, DESENVOLVER
+SISTEMAS DE ÚLTIMA GERAÇÃO
+E SOLUÇÕES INOVADORAS EM
+BENEFÍCIO DO SETOR BANCÁRIO,
+DOS CONSUMIDORES E DE
+TODA A SOCIEDADE
+PLANOS ECONÔMICOS
+                             Sob mediação da Advocacia-Geral da União e supervisão do Banco Central do
+                      Brasil (BACEN), a FEBRABAN e outras entidades, entre as quais a Frente Brasileira
+                      pelos Poupadores (FEBRAPO), o Instituto Brasileiro de Defesa do Consumidor (IDEC)
+                      e a Confederação Nacional do Sistema Financeiro (CONSIF), assinaram, em dezembro
+                      de 2017, o maior acordo judicial da história.
+                             O acordo põe fim à disputa que envolveu a correção de aplicações nas cadernetas
+                      de poupança durante a entrada em vigor dos planos econômicos Bresser (1987), Verão
+                      (1989) e Collor II (1991). O Collor I não foi incluído, uma vez que o Superior Tribunal de
+                      Justiça já decidiu que não há diferença a ser paga para esse plano.
+
+DESTAQUES
+GOVERNANÇA INSTITUCIONAIS 2017                                                              41
+                               Planos econômicos: o acordo deve encerrar
+                               mais de um milhão de processos judiciais. Os
+                       poupadores receberão os valores reclamados com
+                        a correção monetária integral, acrescidos de juros
+                      remuneratórios até a data do ajuizamento da ação
+        Para a sociedade brasileira, representa uma demonstração de que a mediação e a
+conciliação são melhores mecanismos para resolver conflitos do que as demandas judiciais.
+        Para os bancos, o principal benefício é a possibilidade de encerrar a maior parte
+desse passivo e a eliminação de diversos controles de acompanhamento dos processos.
+        É importante ressaltar que, no acordo, há o reconhecimento expresso de que todas
+as regras dos planos são válidas e constitucionais e que as instituições financeiras agiram
+em conformidade com a Constituição e com as demais normas legais, regulamentares e
+assentos administrativos dos tribunais.
+        A FEBRABAN, atuante em todo o processo dessa tramitação, disponibilizou o
+portal www.pagamentodapoupanca.com.br para que os poupadores possam aderir ao
+acordo com mais agilidade e rapidez. GRI 103-2
+REGULAÇÃO PRUDENCIAL, RISCOS E ECONOMIA
+RESOLUÇÃO BANCÁRIA
+        A reforma da legislação referente à resolução bancária (liquidação e estabilização)
+é um dos projetos prioritários na reformulação da arquitetura do sistema financeiro
+internacional – no âmbito do G-20 e o Brasil se comprometeu a atendê-la. Em virtude
+da relevância desse tema, este foi inserido como um dos pontos prioritários da agenda
+BC+, no pilar Legislação mais moderna.
+        Para aprimorar as normas relativas à resolução bancária, o BACEN vem trabalhando
+em um projeto de lei que confere segurança jurídica mais efetiva à atuação exercida
+pelos supervisores.
+        Essa revisão irá assegurar a estabilidade financeira e mitigar os impactos
+negativos de uma resolução bancária para o funcionamento da economia, de forma
+que preserve ao máximo o valor dos ativos para minimizar eventuais prejuízos
+aos depositantes, credores e funcionários. A proposta busca ainda aprimorar os
+mecanismos de garantia a depositantes.
+        Ressalta-se que essa reforma, além de atender ao compromisso internacional
+assumido pelo Brasil, promoverá, por meio do BACEN, o desenvolvimento de instrumentos
+mais eficientes para lidar de forma efetiva com crises financeiras e mitigar o impacto
+nas finanças públicas, além de impedir o uso de recursos dos contribuintes antes que
+sejam esgotadas todas as fontes privadas de recursos disponíveis.
+
+42                                                                          RELATÓRIO ANUAL 2017
+   BASILEIA III GRI 102-15
+          As regras de Basileia III têm por objetivo corrigir as deficiências regulamentares
+   anteriores à crise financeira internacional de 2007-2009, além de reduzir a
+   vulnerabilidade sistêmica e promover um sistema bancário mais resiliente. O processo
+   de implementação dos normativos foi iniciado em janeiro de 2013 e se estenderá até
+   janeiro de 2022.
+          Os ajustes foram realizados em duas etapas.
+          A primeira centrou-se em melhorar o capital regulatório; elevar os níveis de
+   capital para permitir o fortalecimento do sistema bancário, adicionar elementos
+   macroprudenciais na estrutura regulatória, restringir a alavancagem excessiva dos
+   bancos e introduzir indicadores de controle do risco de liquidez.
+          A segunda, finalizada em dezembro de 2017, complementou o aprimoramento
+   regulatório global e procurou restaurar a credibilidade no cálculo dos ativos
+   ponderados pelo risco (RWA), aumentar a granularidade e a sensibilidade ao risco,
+   além de promover maior comparabilidade entre os bancos.
+          O Comitê de Basileia aprovou as reformas finais de Basileia III, entre as
+   quais estão: revisão da abordagem padronizada de risco de crédito; restrição ao
+   uso da abordagem avançada para determinadas classes de ativos; revisão do risco
+   de CVA (Credit Valuation Adjustment); revisão dos requisitos de capital para risco
+   operacional; e introdução de um buffer de taxa de alavancagem para os bancos globais
+   sistemicamente importantes (G-SIBs).
+          A FEBRABAN acompanha a introdução das normas no Brasil e atua para que
+   o acordo seja implementado estritamente dentro das regras definidas, mas com o
+   menor custo possível para os bancos locais e para que, dentro do possível, sejam
+   respeitadas as particularidades e características do sistema bancário nacional.
+          O Brasil tem cumprido tempestivamente as recomendações de Basileia III e
+   implementou o arcabouço regulatório de capital, a identificação e a definição do
+   capital adicional para as instituições domesticamente importantes (D-SIBs), os
+   requisitos de liquidez de curto prazo e de longo prazo e o indicador de alavancagem.
+   As normas brasileiras de capital já foram avaliadas pelo Regulatory Consistency
+   Assessment Programme (RCAP) do Comitê de Basileia e receberam nota máxima de
+   aderência às regras.
+          Em 2017, o destaque foi a avaliação da aderência das regras de liquidez de
+   curto prazo, medidas pelo Liquidity Coverage Ratio (LCR). Com um índice médio de
+   224%, segundo o relatório do RCAP, mais que o dobro do mínimo requerido e que
+   chegará a 100% a partir de 2019, as regras brasileiras receberam nota máxima de
+   aderência em todos os componentes do LCR.
+          Seguindo o cronograma de Basileia, o BACEN implementará, em 2018, as
+   normas de Limite de Exposição ao Cliente e de exposição ao risco de crédito de
+   contraparte (SA-CCR), que entrarão em vigor em 2019. Também entrarão em vigor
+   as regras de mensuração do risco de taxa de juros no banking book (IRRBB) e o índice
+   de liquidez de longo prazo (NSFR), já normatizadas.
+
+DESTAQUES INSTITUCIONAIS 2017                                                           43
+GESTÃO DE RISCO GRI 102-15
+        Em 2017, destaca-se que o Conselho Monetário Nacional
+(CMN) editou a Resolução 4.557/2017 estabelecendo o
+                                                                           A FEBRABAN
+gerenciamento integrado de risco e de capital (GIR) para as          recebeu, em 2017, o
+instituições supervisionadas pelo BACEN. A norma traz requisitos
+a serem observados de maneira proporcional ao perfil de riscos        Prêmio de Mérito
+e ao segmento em que cada instituição esteja enquadrada de
+acordo com os termos da Resolução 4.553/2017 – outra inovação          COAF e o Prêmio
+regulatória que dividiu o Sistema Financeiro Nacional em cinco
+segmentos, com base no tamanho e na exposição internacional
+                                                                          ENCCLA, que
+das instituições.                                                       reconhecem seu
+        A GIR é responsável por consolidar, em um único
+normativo, as regras de gestão de capital e riscos, anteriormente     comprometimento
+tratadas em cinco resoluções que abordavam separadamente os
+riscos operacional, de crédito, de mercado, de liquidez, bem como
+                                                                         com o trabalho
+de gerenciamento de capital.                                             de prevenção à
+        Nesse sentido, é requerida a figura do Chief Risk Officer
+(CRO), com a responsabilidade de implementar a estrutura de                corrupção e à
+gestão de riscos e o acompanhamento do seu desempenho,
+bem como a criação de comitês de risco. A independência dos
+                                                                    lavagem de dinheiro
+membros varia conforme o segmento/porte da instituição.
+        A GIR estabelece ainda a implementação de um programa
+de testes de estresse, dotado de governança própria e com clara
+definição do papel da alta administração na formulação de
+diretrizes. Os resultados desse programa devem ser considerados
+na tomada de decisões estratégicas da instituição.
+PREVENÇÃO À LAVAGEM DE DINHEIRO E AO FINANCIAMENTO
+DO TERRORISMO (PLD FT)
+        Em 2017, a FEBRABAN intensificou seus esforços para
+aprimorar os sistemas de prevenção à lavagem de dinheiro e
+ao financiamento do terrorismo, com destaques para a criação
+da Comissão Executiva de PLD FT, a revisão e atualização do
+normativo da autorregulação bancária (SARB 11), a participação
+no Private Sector Dialogue (entre reguladores dos Estados
+Unidos e bancos da América Latina), e na Estratégia Nacional de
+Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA).
+        A FEBRABAN interage com órgãos públicos e privados,
+inclusive internacionais, especialmente nas propostas de
+aperfeiçoamento das regras de prevenção à lavagem de dinheiro
+e ao financiamento do terrorismo, com o objetivo de tornar mais
+ágeis e eficazes os controles e o compartilhamento de experiências.
+        Nesse sentido, para saques de valores elevados, o
+BACEN publicou a Circular 3.839/2017, a qual determina novos
+procedimentos para aumentar o controle sobre movimentações
+financeiras em espécie. As regras para saques superiores a
+
+44                                                                  RELATÓRIO ANUAL 2017
+Em 2017, o volume   R$ 50 mil incluem preenchimento de formulário e comunicação
+                    prévia de, no mínimo, três dias úteis de antecedência à retirada
+de comunicações de  do dinheiro para que o banco faça provisionamento do valor. As
+operações suspeitas informações serão automaticamente encaminhadas ao Conselho
+                    de Controle de Atividades Financeiras (COAF).
+ao COAF ultrapassou        Na ENCCLA, entre as ações que contarão com a participação
+                    direta da FEBRABAN em 2018, ressaltam-se a elaboração e
+63 mil, aumento de  a aprovação do Plano Nacional de Combate à Corrupção, a
+12,5% em relação ao consolidação da estratégia para fortalecer a Prevenção Primária
+                    da Corrupção, a implementação de medidas de restrição e
+ano anterior        controle do uso de dinheiro em espécie, o aperfeiçoamento
+                    dos estudos sobre a utilização de moedas virtuais para fins de
+                    lavagem de dinheiro, além da apresentação de propostas para
+                    regulamentação e/ou adequações legislativas, eventualmente.
+ESTUDOS SOBRE O SETOR BANCÁRIO GRI 203-1
+                           Faz parte dos objetivos da FEBRABAN incentivar a
+                    produção de trabalhos em torno de temas relevantes tanto para
+                    o setor financeiro quanto para o País.
+                           O Convênio FEBRABAN – Faculdades de Economia é uma
+                    parceria, atualmente em seu terceiro ano, entre a FEBRABAN e
+                    quatro faculdades de economia. Foram produzidos 32 trabalhos
+                    sobre diversos temas, como financiamento de longo prazo, novas
+                    tecnologias, papel do judiciário no crédito, crédito direcionado
+                    e regulação.
+                           Além do convênio, outros estudos foram desenvolvidos
+                    em 2017, com destaque para o tema de spread bancário. Vale
+                    citar que o spread bancário divulgado pelo BACEN equivale à
+                    diferença entre as taxas de aplicação que os bancos cobram por
+                    seus empréstimos e as taxas de captação que eles pagam aos
+                    seus clientes para obter esses recursos. O spread não representa
+                    a rentabilidade ou o lucro oriundo dessas operações, muito
+                    embora seja frequente essa interpretação.
+                           Para se chegar ao lucro dos bancos com as operações de
+                    crédito, é necessário que sejam deduzidos todos os custos dessas
+                    operações (perdas com a inadimplência e custos operacionais, por
+                    exemplo). De acordo com os dados oficiais do BACEN, 75% do spread
+                    corresponde a esses custos e apenas 25% representam os lucros.
+                           Por exemplo: em dezembro de 2017, a taxa média
+                    dos empréstimos apurada pelo BACEN foi de 25,6%, o que
+                    gerou spread de 18,9 p.p. Desse total, o lucro das instituições
+
+DESTAQUES INSTITUCIONAIS 2017                                         45
+financeiras foi de 4,73 p.p. (25% de 18,9 p.p.). Os 75% restantes
+corresponderam aos custos dessas operações.
+       A conclusão dos estudos é que o Brasil tem spreads
+bancários elevados, mas que decorrem principalmente dos
+altos custos da intermediação financeira em nosso País. A
+pesquisa recente realizada pela consultoria Accenture, a pedido
+da FEBRABAN, mostrou que o Brasil tem de fato os maiores
+spreads quando comparado com uma amostra relevante de
+países, mas que a rentabilidade dos bancos (considerando
+apenas os cinco maiores em cada país) está alinhada com a
+desses outros países.
+       Em 2016, os cinco maiores bancos que atuam no Brasil
+tiveram rentabilidade média de 16,2%, abaixo da obtida pelos
+maiores bancos chilenos (17,8%) e muito próxima à obtida
+na África do Sul (15,2%), na Colômbia (14,8%) ou na Turquia
+(14,5%). Se dessa rentabilidade descontarmos a taxa básica
+de juros de cada país (no Brasil é a taxa Selic), a posição dos
+bancos brasileiros nesse ranking de rentabilidade cai para o 7º
+lugar em uma lista de 13 países.
+       Outro estudo, sobre concentração e concorrência no setor
+bancário, revela que esse setor, em geral, tende a ser concentrado
+tanto em países desenvolvidos como nos chamados emergentes
+comparáveis ao Brasil por se tratar de um setor intensivo de capital.
+       No Brasil, o nível é considerado moderado. Os cinco
+maiores bancos que atuam no País respondem por 69% dos
+ativos e 85% dos depósitos totais do setor. Na África do Sul, os
+cinco maiores bancos possuem 89% dos ativos; na Austrália,
+82%; no Chile, 73%; no México, 71%; e na Colômbia, 67%.
+Uma particularidade do setor bancário brasileiro, não presente
+nos demais países comparáveis, é a forte presença de bancos
+estatais, que têm uma fatia de mercado de 54% no crédito e de
+48% no total de depósitos.
+       A concentração econômica também está presente em
+setores intensivos em capital e/ou nos quais são importantes
+as chamadas economias de escala. Na economia brasileira, no
+setor de Petróleo e Gás, as cinco maiores empresas concentram
+quase 90% dos ativos; no setor de Papel e Celulose, as cinco
+maiores possuem cerca de 80% dos ativos; e no setor de TI e
+Telecom, as cinco maiores têm concentração de 75%.
+       Visando o tema da ampliação de crédito para pequenas
+e médias empresas (PME), foi elaborado estudo pela FIPE
+com o diagnóstico e a proposição de medidas que fomentem
+a ampliação de crédito para PME. O referido estudo foi
+apresentado à Diretoria Executiva em novembro de 2017 e
+realizado workshop entre FIPE e integrantes da comissão.
+
+46                                                                      RELATÓRIO ANUAL 2017
+AUTORREGULAÇÃO GRI 102-15 | 103-2 | 103-3
+O SARB 18 prevê               O Sistema de Autorregulação Bancária (SARB) reflete o
+                      compromisso e o empenho dos bancos com seus clientes em
+atendimento           construir relações ainda mais transparentes, éticas e eficientes,
+especial àqueles      em benefício dos consumidores, do setor e de toda a sociedade.
+                              Em 2017, a FEBRABAN lançou o SARB 18, com diretrizes
+que tiveram sua       e regras para tratamento e negociação de dívidas de pessoa
+                      física. O normativo inova ao contemplar consumidores
+capacidade de         adimplentes que, embora estejam pagando regularmente suas
+pagamento reduzida    dívidas, estão excessivamente endividados.
+                              O compromisso dos bancos também inclui medidas como
+em razão de           a divulgação dos canais oferecidos para negociação de dívidas e o
+                      acesso facilitado a informações sobre evolução da dívida e prazo para
+desemprego, doença    retirada do nome do consumidor dos cadastros de inadimplentes,
+grave e divórcio      além da atuação na prevenção do superendividamento.
+                              As novas regras, aliadas às políticas de crédito responsável,
+                      contribuirão para a construção de maior confiança nas relações de
+                      consumo e para o resgate da capacidade financeira do consumidor.
+                              É importante destacar que, além da edição de normativos,
+                      existem ações voltadas à orientação e à capacitação das
+                      signatárias. Nesse sentido, os e-learnings constituem valiosos
+                      instrumentos de internalização das regras pactuadas na
+                      autorregulação bancária e de capacitação de profissionais.
+                      Atualmente, são 13 conteúdos disponíveis aos bancos. Para
+                      2018, está previsto o e-learning sobre SARB 18.
+                              Outro avanço importante foi a definição de novo fluxo interno
+                      de comunicação, por meio do qual os relatórios de conformidade
+                      das instituições financeiras signatárias passarão a subsidiar as
+                      atividades das respectivas auditorias internas. Essa medida, aliada
+                      à aprovação de novos critérios para a abertura de averiguações
+                      preliminares, fortalecerá o monitoramento de condutas e o processo
+                      de supervisão das normas pactuadas na Autorregulação.
+                              Por fim, merecem destaque as ações voltadas à discussão
+                      do modelo de autorregulação bancária que completa dez
+                      anos em 2018. Além do diálogo permanente com o regulador
+                      e os órgãos de defesa do consumidor, foram promovidos
+                      debates e seminários sobre a importância da autorregulação
+                      na disseminação de boas práticas de mercado e na prevenção
+                      de conflitos. Foi também contratada uma consultoria
+                      independente para a realização de um profundo diagnóstico do
+                      atual modelo/estrutura da autorregulação. As recomendações
+                      serão discutidas e implementadas ao longo de 2018.
+
+DESTAQUES INSTITUCIONAIS 2017                                     47
+MONITORAMENTO DOS SACS E AUDITORIA DAS AGÊNCIAS
+GRI 102-43 | 102-44 | 103-3
+        A auditoria dos SACs é realizada por meio de
+monitoramento de ligações de clientes, análise dos registros
+internos de atendimento e avaliação de indicadores como
+estrutura de menu, informação de protocolo, tempo de espera,
+informação e cumprimento de prazo de resposta.
+        Em 2017, foram observados altos índices de resolutividade
+no primeiro contato com o consumidor (79%) e adequação de
+98% nos quesitos informação e cumprimento de prazo.
+        Ressalta-se que, por meio da atualização dos SARB
+001/2008 e SARB 003/2008, as instituições financeiras
+também se comprometeram a reduzir, de dez para cinco dias
+úteis, o prazo máximo para atendimento de 50% das demandas
+recebidas pelas ouvidorias; e de cinco para três dias úteis em
+80% das demandas o prazo máximo de resposta nos SACs.
+        A auditoria foi realizada em 2.100 agências, em cinco
+regiões do País, 21 capitais, oito regiões metropolitanas e 15
+cidades com mais de 400.000 habitantes, com índice de
+conformidade de 94%.
+PAINEL SETORIAL DE ATENDIMENTO GRI 102-43 | 102-44 | 103-3
+        Aperfeiçoado constantemente, em 2017 o Painel Setorial
+contou com nova sistemática de comparação e relativização
+entre o número de atendimento nos canais com a quantidade
+de clientes e de transações realizadas no sistema bancário.
+        Em 2017, o índice de satisfação de consumidores nos SACs
+dos bancos subiu para 90,8%. Houve redução de 17% das recla-
+mações recebidas no Procon e de 6% da entrada de ações cíveis.
+CENTRAL CONTE AQUI GRI 102-43 | 102-44 | 103-3
+        A Autorregulação da FEBRABAN coloca à disposição dos
+consumidores a Central Conte Aqui para que possam reportar
+eventual descumprimento de normas do SARB por parte das
+instituições financeiras participantes.
+        As demandas são encaminhadas ao banco que as motivou
+para tratamento individualizado. O prazo regulamentado de
+resposta ao cliente (15 dias) foi atendido em 97% dos 1.976
+casos registrados.
+        Os temas mais recorrentes foram: atendimento (46%),
+operações de crédito (16%) e conta-corrente (14%). Esses e outros
+casos podem ser registrados em conteaqui.org.br.
+
+48                                                                                          RELATÓRIO ANUAL 2017
+                                           FALE CONOSCO GRI 102-43 | 102-44 | 103-3
+De cada dez                                        Com a reformulação do Fale Conosco, o consumidor pode
+demandas                                   optar por encaminhar a demanda à FEBRABAN ou à instituição
+                                           financeira, que acessa o canal e responde diretamente.
+registradas no                                     Já os assuntos direcionados à FEBRABAN são enviados
+                                           para as diretorias internas. Em ambos os casos, o prazo para
+consumidor.gov.br,                         resposta é de dez dias úteis.
+oito são resolvidas na                             Em 2017, o Fale Conosco recepcionou 4.056 demandas, das
+                                           quais 2.737 foram para a FEBRABAN.
+plataforma sem que
+                                           CONSUMIDOR.GOV.BR GRI 102-43 | 102-44
+o consumidor tenha                                 Para facilitar o atendimento à população, a FEBRABAN
+                                           também passou a direcionar as demandas individuais de
+de recorrer ao Procon                      consumidores relacionadas a produtos e serviços bancários,
+ou à Justiça                               recebidas nos canais internos (Conte Aqui e Fale Conosco) ao
+                                           Consumidor.gov.br, portal de resolução de conflitos. A iniciativa foi
+                                           oficializada em um acordo de cooperação assinado em dezembro
+                                           de 2017 com a Secretaria Nacional do Consumidor (SENACON).
+                                                   Com esse acordo, a FEBRABAN ratifica seu apoio a essa
+                                           ação inovadora, que aproxima consumidores e fornecedores,
+                                           soluciona conflitos e promove a concorrência entre as empresas
+                                           pela qualidade do atendimento.
+AMBIENTE REGULATÓRIO
+                  Em 2017, várias iniciativas contribuíram para o aperfeiçoamento do mercado no âmbito
+           regulatório e/ou legislativo, entre as quais se destacam: a aprovação do Estatuto da Segurança
+           Privada na Comissão de Assuntos Sociais do Senado Federal, o qual permitirá a padronização de
+           produtos, serviços, rotinas, processos, instalações e investimentos em equipamentos e tecnologia;
+           a aprovação do Projeto de Lei 212 no Senado Federal, que altera a lei do cadastro positivo e aguarda
+           votação na Câmara dos Deputados; e a publicação da Lei 16.624, que revoga a obrigatoriedade de
+           envio de carta com Aviso de Recebimento (AR) para as negativações no Estado de São Paulo.
+                  Além dessas, merece destaque a publicação da Lei 13.476, que regula a chamada garantia
+           guarda-chuva. Desde agosto de 2017, passou a ser permitido que uma única garantia seja utilizada
+           para amparar diversas operações de crédito já contratadas ou a serem concedidas. As novas regras
+           para registro de bens devem trazer mais segurança e menos custo a essas transações.
+                  Vale mencionar também o aperfeiçoamento da Lei 11.105/2005 (Recuperação Judicial). Em
+           dezembro de 2017, foi encaminhado ao BACEN estudo elaborado pela GO Associados com vistas
+           a demonstrar impactos de eventual mudança no Estatuto Legal da Alienação/Cessão Fiduciária.
+           O Grupo de Trabalho do Ministério da Fazenda já finalizou a minuta, na qual foram incluídas 16
+           sugestões apresentadas pela FEBRABAN.
+                  Ressalta-se ainda que o Projeto de Lei 7.920/2017 prevê que os documentos apresentados
+           em papel possam ser destruídos após a sua digitalização, o que permitirá diminuição de custos e
+           redução de espaços físicos em arquivos, o que contribui com a sustentabilidade ambiental.
+
+DESTAQUES INSTITUCIONAIS 2017                                                                        49
+BUSCA E APREENSÃO DE BENS MÓVEIS ALIENADOS
+       Em 2017, foi aprovada pela Comissão de Assuntos Econômicos do
+Senado a proposta de retomada extrajudicial de bens móveis em caso
+de alienação fiduciária deles (Projeto de Lei 478/2017).
+       A proposta elaborada pela FEBRABAN, sob o prisma do                    O Portal Mediação
+Direito Constitucional e do consumidor, propicia principalmente a
+desjudicialização da retomada de veículos, menor número de ações                      Digital facilita
+judiciais sem discussão jurídica relevante, mais eficácia na cobrança de
+dívidas vencidas, líquidas e certas, mais segurança jurídica do credor e
+                                                                                     o diálogo entre
+melhora na oferta de crédito.                                                       as partes para a
+       A votação do projeto no plenário do Senado está prevista para 2018.
+                                                                                  realização de um
+PORTAL MEDIAÇÃO DIGITAL
+       O Conselho Nacional de Justiça (CNJ), o Banco Central do Brasil
+                                                                                  acordo de forma
+e a FEBRABAN assinaram, em dezembro de 2017, termo de cooperação                         consensual e
+técnica que visa incentivar a solução de conflitos por meio do Portal
+Mediação Digital (cnj.jus.br/mediacaodigital), bem como estabelecer                on-line e evita a
+medidas que possibilitem o intercâmbio de informações de interesse
+das instituições financeiras.                                                          judicialização
+       Pela plataforma eletrônica, o cliente poderá solucionar o conflito
+diretamente com a instituição financeira, que enviará a resposta por meio
+                                                                                      das demandas
+da própria ferramenta. Após o recebimento da proposta, o cliente terá
+três opções: aceitar, negar ou encaminhar para mediação pessoal nos
+Núcleos Permanentes de Métodos Consensuais de Solução de Conflitos,
+distribuídos pelos tribunais em todo o País.
+AMBIENTE DE CRÉDITO
+PORTABILIDADE ELETRÔNICA DE CRÉDITO
+       Em 2017, as solicitações de portabilidade de operações de crédito de uma instituição
+financeira para outra, por iniciativa do cliente, evoluíram de forma expressiva.
+       Desde a entrada em operação do Sistema CTC (em maio de 2014) até o fim de 2017
+atingiu-se a marca de 11,2 milhões de solicitações (4,9 milhões no decorrer do ano). Desse
+contingente, 99,7% são referentes ao produto crédito consignado, sendo a maior parte
+dessa modalidade destinada aos beneficiários do INSS (72%).
+       Nos últimos meses, o número de pedidos de transferência tem alcançado média
+aproximada superior a 400 mil por mês.
+       Além disso, no âmbito da governança da portabilidade, os Comitês Gestor e de
+Governança seguem atuantes na aplicação dos mecanismos de autorregulação do sistema.
+       Em 2017, foram concluídos três ciclos de apuração (380 operações críticas analisadas)
+do nível de adesão das instituições financeiras às regras instituídas pelo Documento Correlato
+de Boas Práticas e Procedimentos Operacionais, que passou por uma revisão em seus
+dispositivos com vistas a proporcionar ainda mais agilidade ao monitoramento das operações.
+A portabilidade também vem sendo acompanhada pelo BACEN.
+
+50                                                                                RELATÓRIO ANUAL 2017
+   PORTAIS DE CRÉDITO CONSIGNADO
+           A FEBRABAN aprimorou, ao longo de 2017, o projeto voltado à estruturação de um
+   modelo de avaliação para aplicação em empresas que processam operações de crédito
+   consignado (portais).
+           O trabalho, executado por uma consultoria contratada, teve como objetivo
+   construir um processo complementar de análise de fornecedores ao praticado pelas
+   instituições financeiras.
+           Na primeira etapa, foram desenvolvidos os parâmetros do modelo, com a definição de
+   requisitos para análise, tais como aspectos qualitativos (constituição da empresa, processos
+   e controles, gestão da qualidade, segurança da informação) e quantitativos (indicadores
+   de desempenho referentes a contratos fora do prazo, ocorrência de fraudes, reclamações,
+   liquidação antecipada de contratos, entre outros).
+           Na etapa seguinte, como parte do processo de validação, foram avaliados 20
+   fornecedores indicados pelas instituições financeiras, a maioria pertencente a uma parcela
+   representativa do segmento.
+           O relatório final indicou os prós e contras de cada empresa e os processos relevantes a
+   serem aprimorados e atestou a efetividade da avaliação.
+           A FEBRABAN entende que esse projeto poderá contribuir para aumentar o nível de satisfação
+   com os serviços prestados pelos correspondentes aos clientes das instituições financeiras.
+   LINHAS DE CRÉDITO BNDES
+           Em 2017, cabe destacar o relacionamento próximo e colaborativo entre a FEBRABAN
+   e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) para realização de
+   iniciativas atreladas às operações indiretas (isto é, aquelas em que há repasse de recursos
+   para as instituições financeiras).
+           Entre essas ações, está a racionalização no número geral de linhas de financiamento
+   indiretas ofertadas pelo BNDES (de 74 para 24, redução superior a dois terços), o que permitiu
+   a eliminação na sobreposição de apoios com a mesma finalidade e maior efetividade na
+   gestão de recursos pelos agentes financeiros.
+           Também em 2017, as operações indiretas passaram a ter participação de 58,7% do
+   volume financeiro total de desembolsos do BNDES, ante 54,6% no ano anterior. Merecem
+   destaque os produtos BNDES Automático, com R$ 15,2 bilhões financiados, ante R$ 12,8 bilhões
+   no ano anterior, e BNDES Finame, com R$ 19,6 bilhões ante R$ 17,6 bilhões no ano anterior.
+           Além disso, a ampliação do crédito para micro, pequenas e médias empresas
+   alavancou o volume de desembolsos em programas como o BNDES Giro (antigo BNDES
+   Progeren). Em 2017, foram liberados R$ 7,1 bilhões para financiamento de capital de giro,
+   valor 164% superior ao do ano anterior.
+           No decorrer do ano, também foram realizadas discussões conjuntas sobre
+   implementação da Taxa de Longo Prazo (TLP), novo referencial para remuneração de contratos
+   de financiamento do BNDES, com entrada em vigor a partir de 2018.
+   CADASTRO POSITIVO
+           Os bancos têm o maior interesse em melhorar as informações para aprimorar o processo
+   de concessão de crédito e sempre se comprometeram a contribuir com o desenvolvimento
+   de ferramentas e processos que auxiliem na maior quantidade e na melhor qualidade de
+   informações sobre níveis de endividamento, histórico de crédito e potenciais novos clientes, o
+
+DESTAQUES INSTITUCIONAIS 2017                                                           51
+que torna mais eficiente o processo de concessão de crédito e reduz os
+problemas da assimetria de informações.
+       Em especial no que se refere ao projeto de aperfeiçoamento
+do cadastro positivo, incluído na agenda BC+, a FEBRABAN vem
+colaborando com os reguladores na busca de um aperfeiçoamento
+da legislação em vigor.
+       No fim de 2017, o Senado aprovou o Projeto de Lei 212/2017
+que altera a lei do cadastro positivo e aguarda votação na Câmara
+dos Deputados, com diversos aprimoramentos ao atual marco legal,
+com destaque para a introdução do modelo de opt out para ingresso
+dos consumidores no cadastro positivo e o fim da responsabilidade
+solidária entre os participantes do sistema em caso de ocorrência de
+alguma falha.
+       No sistema de opt out, todos os consumidores serão incluídos
+automaticamente nos cadastros, mas apenas para a produção de
+scores de crédito por parte das empresas gestoras de bancos de
+dados (GBDs). Aqueles que não quiserem participar poderão se
+comunicar com as fontes e/ou com as GBDs para solicitar a sua                     Desde a
+exclusão. Espera-se, com isso, aumento expressivo do número de
+integrantes, o que é fundamental para o efetivo funcionamento dos
+                                                                            implantação
+modelos de crédito e do sistema de cadastro positivo.                      do SLC, foram
+       Outra mudança importante foi o fim da responsabilidade
+solidária e a sua substituição pela responsabilidade objetiva. Pelo     processadas mais
+sistema anterior, todos os integrantes poderiam ser penalizados em
+caso de falha (um vazamento de dados, por exemplo), mesmo se
+                                                                         de 213 milhões
+não tivessem nenhuma responsabilidade. Agora, cada um passará a           de transações,
+responder única e objetivamente pelas suas falhas eventuais e não
+pelas de terceiros. O PL ainda precisa ser aprovado pela Câmara dos     que representam
+Deputados para entrar em vigor.
+                                                                          R$ 186 bilhões
+SISTEMA DE LIQUIDAÇÃO DE CARTÕES (SLC)
+       Para atender às exigências da Circular BACEN 3.765/2015, foi
+                                                                              em volume
+desenvolvido o Sistema de Liquidação de Cartões (SLC), cuja implantação        financeiro
+em produção foi efetivada em novembro de 2017.
+       Assim, toda compensação e liquidação das transações de
+cartões de crédito e débito são efetuadas por meio de uma grade
+única, com integração de todos os participantes do mercado, até a
+realização final do crédito relativo à transação de cartão na conta-
+corrente ou de pagamentos do estabelecimento comercial.
+       Para esse projeto, está prevista a entrada de subcredenciadores
+e de marketplaces, os quais passarão a realizar também o crédito de
+transações de cartões de seus clientes via grade única.
+
+  52                                                                          RELATÓRIO ANUAL 2017
+Em 2017, foram        CÂMARA REGISTRADORA DE ATIVOS FINANCEIROS (CRAF)
+                              Com a remodelação, a Câmara de Cessão de Crédito (C3) passou
+registrados na CRAF   a ter nova denominação: Câmara Registradora de Ativos Financeiros
+                      (CRAF), desenvolvida pela Câmara Interbancária de Pagamentos (CIP)
+2.505.995 contratos   em conjunto com os bancos.
+e 1.062 operações             A nova versão do sistema tem mais funcionalidades no que se
+                      refere ao registro das operações de cessões e/ou bloqueios a favor do
+de cessões, com       Fundo Garantidor de Crédito realizadas na CRAF.
+                              Para atender aos requisitos, foi necessário aumentar o tamanho
+liquidação financeira do registro de informações dos contratos que compõem as carteiras
+de R$ 19.393.282.472  cedidas ou bloqueadas, com a inclusão de novos campos, de forma que
+                      pudessem englobar dados de ativos financeiros não objeto de depósito
+                      centralizado, bem como informações relativas a transações, ônus e
+                      gravames incidentes sobre cada ativo.
+                              Entre essas alterações, destaca-se a necessidade de as instituições
+                      bancárias comunicarem diariamente o que ocorreu com a parcela de
+                      cada contrato, isto é, se foi paga em dia, em atraso ou se foi baixada.
+                      Tais eventos servirão para sincronizar a informação financeira constante
+                      da CRAF com as posições dos registros informados pelas instituições
+                      participantes para o Sistema de Riscos do Banco Central (SCR).
+                              Outro quesito é o controle de operações fora de padrão (OFP).
+                      Foi atribuída à CRAF a verificação e, se for o caso, o reporte ao órgão
+                      regulador das operações de determinada carteira de ativos que
+                      estiverem fora do padrão do mercado.
+                              A CRAF é responsável por fiscalizar os atos praticados pelos
+                      participantes em seus sistemas, inclusive o registro de informações,
+                      com vistas a zelar pela sua plena aderência às regras estabelecidas. A
+                      fiscalização será realizada periodicamente por auditoria independente
+                      por meio de relatório eletrônico de asseguração a ser enviado à CIP.
+                      CENTRAL DE EXPOSIÇÃO DE DERIVATIVOS (CED)
+                              A CED registrou expressivo crescimento tanto no número de
+                      consultas realizadas pelos bancos participantes quanto na quantidade
+                      de autorizações obtidas com seus clientes.
+                              Ao fim de 2017, as bases de dados da CED registravam mais de
+                      dois milhões de consultas aos relatórios de exposição a derivativos e
+                      9,7 mil autorizações válidas, o que significa, respectivamente, expansão
+                      de 39% e de 32,5% sobre o ano anterior.
+                              Vale mencionar que, em 2017, quatro novas instituições
+                      habilitaram-se ou iniciaram processo de habilitação para extrair
+                      relatórios de exposição a derivativos por lote de clientes.
+                              Entidade sem fins lucrativos, a CED manteve-se
+                      equilibrada financeiramente em 2017 graças a um rígido
+                      controle de sua estrutura de custos, muito embora não tenha
+                      corrigido as contribuições mensais dos bancos participantes
+                      do sistema.
+
+DESTAQUES INSTITUCIONAIS 2017                                                               53
+AMBIENTE OPERACIONAL
+SEGURANÇA BANCÁRIA
+       Os investimentos do setor em segurança bancária somam
+mais de R$ 9 bilhões ao ano na aquisição de equipamentos e na
+contratação de pessoal de vigilância.
+       Aliados a uma série de medidas preventivas, como redução
+de numerário nas agências e estímulo a transações eletrônicas, os           Levantamento
+crescentes investimentos levaram o número de assaltos a bancos e
+de ataques a caixas eletrônicos (ATMs) a cair nos últimos anos.              realizado pela
+       Ressalta-se que o levantamento feito pela da FEBRABAN em
+2017, abrangendo um universo de 159 casas legislativas, identificou        FEBRABAN com
+134 projetos de leis relacionados à segurança bancária (em 2016, eram
+apenas 31). Desse total, 57 (ou 42%) são relacionados à contratação de
+                                                                              17 instituições
+vigilantes 24 horas nas agências bancárias e/ou nos correspondentes e    financeiras mostra
+nos comércios com caixas eletrônicos.
+       A FEBRABAN opõe-se a esse tipo de medida fundamentada             que os assaltos em
+em dois pareceres de empresas especializadas. Ambas enfatizam
+que cabe exclusivamente a estados e municípios a responsabilidade
+                                                                         agências bancárias
+constitucional de manter segurança e a ordem pública. A função do              alcançaram o
+vigilante privado não é de enfrentamento ao crime. Essa é e sempre
+foi uma atividade da polícia.                                               nível mais baixo
+       Desse modo, a FEBRABAN entende que os enfrentamentos
+geram poucos resultados e grande custo para a sociedade. Por essa
+                                                                           em 2017, quando
+razão, apoia todas as iniciativas que objetivam o uso da inteligência no  foram registradas
+combate ao crime organizado e atua próxima aos comandos da Polícia
+Militar e da Polícia Civil dos estados, além da Polícia Federal.            217 ocorrências,
+       Para avançar nesse tema, somente uma legislação federal
+unificada, como a prevista no Estatuto da Segurança Privada, pode           queda de 36%
+permitir decisões mais eficientes, na medida em que considera, para
+efeitos de segurança, os equipamentos eletrônicos, o uso de vigilância
+                                                                         em relação ao ano
+remota e a modernidade na estrutura das relações trabalhistas.                anterior (339)
+SEGURANÇA EM TRANSAÇÕES ELETRÔNICAS
+       A FEBRABAN desenvolve sistemas de última geração para
+otimizar as transações eletrônicas, prevenir fraudes em cobrança
+bancária, mitigar os riscos na concessão de crédito e estimular o uso de
+canais digitais para proporcionar mais segurança aos consumidores e
+dinamismo ao setor.
+       Em 2017, o combate a fraudes eletrônicas ganhou reforço com
+a renovação, em setembro, do acordo de cooperação técnica entre a
+FEBRABAN e a Polícia Federal. Isso permitiu um intercâmbio mais ágil
+de informações, troca de know-how e trabalho integrado de equipes
+das instituições.
+
+54                                                                RELATÓRIO ANUAL 2017
+                   NOVA PLATAFORMA DA COBRANÇA
+Estima-se que, ao         Esse sistema, entre outros benefícios, possibilita que
+fim do cronograma  boletos vencidos possam ser pagos em qualquer agência dos
+                   bancos participantes do sistema de cobrança bancária ou em
+de implantação, em um dos canais de atendimento, como internet, mobile banking
+                   e caixas eletrônicos (ATMs). Além disso, reduz a inconsistência
+setembro de 2018,  de dados e evita o pagamento em duplicidade.
+cerca de quatro           Em operação desde julho de 2017, quando passaram a
+                   ser processados boletos de valor igual ou acima de R$ 50 mil,
+bilhões de boletos a plataforma vem gradualmente incorporando montantes
+                   inferiores à base de dados. Em setembro, foram incluídos os
+por ano serão      de valor igual ou acima de R$ 2 mil. A partir de março de 2018,
+                   estão previstos os demais.
+transacionados na         O cronograma inicial previa que o sistema passasse
+Nova Plataforma    a registrar todos os boletos a partir do fim de 2017, mas foi
+                   necessário ajuste nos prazos para garantir a segurança e a
+da Cobrança        tranquilidade no processamento em função do elevado número
+                   de documentos.
+                   DÉBITO DIRETO AUTORIZADO (DDA)
+                          O sistema permite que os clientes acessem seus
+                   pagamentos de forma eletrônica sem precisar recebê-los
+                   fisicamente. Os valores das transações são automaticamente
+                   creditados na conta-corrente dos credores.
+                          Em 2017, principalmente pelo fato de a cobrança ter sido
+                   registrada pelos beneficiários em seus bancos, houve expansão
+                   de 67,83% no número de pagadores eletrônicos, com 1.032.161
+                   em 2017, ante 616.639 em 2016; e 57,51% de boletos registrados,
+                   de 494.764.480 em 2017, ante 314.122.956 no ano anterior.
+                          No fim de 2017, o número acumulado de boletos
+                   eletrônicos no DDA chegou a 2,2 bilhões.
+                   COMPENSAÇÃO POR IMAGEM
+                          O número de cheques compensados por imagem caiu
+                   para 494 milhões em 2017, redução de 14,29% em relação ao
+                   ano anterior (576,4 milhões).
+                          As estatísticas revelam que o cliente tem deixado
+                   cada vez mais de usar cheques e optado por outros meios de
+                   pagamento, em especial, transferências eletrônicas.
+                          O número de cheques devolvidos também diminuiu para
+                   39,4 milhões em 2017, ante 50,3 milhões no ano anterior, queda
+                   de 21,33%. Em relação aos cheques sem fundos, a redução foi de
+                   23,6%: o volume passou para 30 milhões em comparação a 38,6
+                   milhões em 2016.
+
+DESTAQUES INSTITUCIONAIS 2017                                                       55
+RELACIONAMENTO COM CLIENTES
+PESQUISA FEBRABAN DE TECNOLOGIA BANCÁRIA                          Em 2017, triplicou
+       Divulgada em maio de 2018, a Pesquisa FEBRABAN de
+Tecnologia Bancária, com dados referentes a 2017, contou com           o número de
+a participação de 24 instituições, inclusive bancos digitais, que
+representam 91% dos ativos da indústria bancária brasileira.
+                                                                     novas agências
+       Entre outras informações, o levantamento mostra que a      adaptadas ao novo
+confiança pelos canais digitais segue em expansão.
+       As transações com movimentação financeira por               modelo digital: de
+meio do mobile banking cresceram 70%. As contratações de
+crédito mais que dobraram, com 225 milhões de operações. A
+                                                                       101 para 373
+pesquisa revela que a criação de novos modelos de agências
+adaptadas às novas preferências dos clientes vem substituindo
+os modelos tradicionais.
+       Em 2017, somaram 380 agências-conceito (espaços
+físicos em que os clientes são atendidos pessoalmente pela
+equipe comercial) e 373 agências digitais (espaços virtuais
+em que os clientes são atendidos por gerentes comerciais
+por meio de chat, telefone, e-mail ou videoconferência).
+Os investimentos em tecnologia bancária, concentrados
+principalmente em inovação para o cliente, atingiram R$ 19,5
+bilhões em 2017, aumento de 20% em relação ao ano anterior.
+       Os bancos também estão na vanguarda dos investi-
+mentos em inteligência artificial e robotics: 80% já investem
+nessas tecnologias e 45% estudam o uso de criptomoedas.
+       A pesquisa na íntegra é divulgada em junho. Confira em
+portal.febraban.org.br, em Publicações | Pesquisa.
+
+56                                                                                                       RELATÓRIO ANUAL 2017
+CRESCIMENTO DOS CANAIS DIGITAIS (EM BILHÕES DE TRANSAÇÕES)
+  Mobile banking
+  Internet bankig                                                                            10%
+  ATM – Autoatendimento                                                          18%
+  POS – Pontos de venda no comércio                                                                          71,8 bi
+  Agências bancárias                                                                        65,4 bi
+                                                               14%
+  Correspondentes no País
+  Contact center                                  21%                          55,7 bi                                25,6
+                                                                                                    18,6
+                                                              48,8 bi
+                               13%                                                     11,2
+                                                                      4,7
+         11%                                     40,3 bi
+                            35,6 bi                      1,6                                        15,5              15,8
+      32,2 bi                            0,5                          18,0             17,7
+                   0,1
+                                                         16,5
+                                         13,7
+                   12,1                                                                             10,2              9,9
+                                                                      10,2             10,0
+                   8,3                   8,8             9,2                                        9,7               9,4
+                                                                      7,2              7,8
+                   5,1                   5,7             6,4                                        5,6               5,5
+                                                                      4,9              4,4
+                   3,9                   4,0             3,8
+                   1,3                   1,4             1,3          2,3              3,2          4,4               4,1
+                   1,4                   1,5             1,5          1,5              1,4          1,4               1,5
+         2011                  2012               2013         2014              2015        2016              2017
+Fonte: Pesquisa FEBRABAN de Tecnologia Bancária.
+EXPANSÃO DOS SERVIÇOS NOS CANAIS DIGITAIS
+Mobile banking
+                                  225                  +141%                                10                  +42%
+        93                        MILHÕES DE
+                                  CONTRATAÇÕES DE                             7             MILHÕES DE
+                                                                                            INVESTIMENTOS/
+   milhões em                                                             milhões em
+                                  CRÉDITO EM 2017                                           APLICAÇÕES EM 2017
+    2016                                                                   2016
+Internet banking
+                                  87                    -17%                                  58                   +71%
+      105                         MILHÕES DE
+                                  CONTRATAÇÕES DE
+                                                                              34              MILHÕES DE
+                                                                                              INVESTIMENTOS/
+   milhões em                                                              milhões em
+                                  CRÉDITO EM 2017                                             APLICAÇÕES EM 2017
+    2016                                                                     2016
+
+DESTAQUES INSTITUCIONAIS 2017                                                                               57
+ RELACIONAMENTO POR MEIO DOS CANAIS DIGITAIS
+                                          Mobile banking                         Internet banking
+                                  2016                     2017           2016                     2017
+ Contratação de crédito        93 milhões    141%       225 milhões  105 milhões      -17%      87 milhões
+ Pagamento de contas          479 milhões     85%       889 milhões     1,3 bilhão     11%      1,5 bilhão
+ Transferência/DOC/TED        277 milhões     45%       401 milhões  526 milhões       -3%      509 milhões
+ Investimentos/Aplicações       7 milhões    42%        10 milhões    34 milhões      74%       58 milhões
+ Solicitação de cartão                        53%                                      -1%
+                                  232 mil               356 mil           934 mil               929 mil
+ de crédito
+ Pesquisa de saldo            14,0 bilhões   34%        18,8 bilhões   6,1 bilhões      3%      6,3 bilhões
+ RELACIONAMENTO POR MEIO DOS CANAIS FÍSICOS
+                                         Agências e PABs                               ATMs
+                                  2016                     2017           2016                     2017
+ Saques                       908 milhões     -4%       869 milhões   2,5 bilhões     -4%       2,4 bilhões
+ Investimentos/Aplicações      19 milhões     39%       26 milhões    52 milhões      -17%      43 milhões
+ Transferência/DOC/TED         47 milhões     13%       53 milhões   224 milhões       -1%      222 milhões
+ Depósitos                    489 milhões    -14%       422 milhões  785 milhões      -4%       757 milhões
+ Solicitação de cartão                       -45%                                      -8%
+                                9 milhões               5 milhões         847 mil               911 mil
+ de crédito
+ Pesquisa de saldo              1,8 bilhão    -4%       1,7 bilhão    3,6 bilhões      -2%      3,5 bilhões
+
+58                                                                   RELATÓRIO ANUAL 2017
+RELAÇÕES TRABALHISTAS
+                           O ano de 2017 foi marcado pela vigência do acordo de dois
+Como principais     anos celebrado em 2016 entre a FENABAN e o movimento sindical
+pontos positivos,   bancário, que preestabeleceu as condições de reajuste de salários,
+                    de valores de benefícios e de parâmetros para a participação nos
+a NLT possibilita   lucros previstos na Convenção Coletiva de Trabalho.
+                           Como resultado do permanente esforço de negociação
+ajustes na relação  entre bancos e bancários, foi assinado, em setembro de 2017,
+                    um termo de aditamento à Convenção Coletiva de Trabalho,
+direta entre        que regulamentou a Cláusula 62, dedicada à requalificação
+empregador e        e à realocação de empregados em situações específicas de
+                    obsolescência de conhecimento para as novas funções, em
+empregado, como     decorrência de reestruturações organizacionais.
+                           Esta foi mais uma inovação do setor, graças à maturidade no
+o parcelamento      trato de questões complexas no campo das relações de trabalho.
+de férias em até    O instrumento passou a ser aplicado pelos cinco maiores bancos
+                    do País, que aderiram imediatamente ao acordo.
+três vezes e a             Destaca-se, também, o início de vigência da Nova Lei
+                    Trabalhista, com a promulgação das Leis 13.429/2017 e 13.467/2017.
+flexibilização
+da jornada de       CONVENÇÃO COLETIVA DE TRABALHO
+                           Com 1º de setembro como data-base, a negociação da
+trabalho mediante   Convenção Coletiva de Trabalho, com abrangência nacional,
+                    reúne 157 bancos, representados pela FENABAN, e alcança todos
+compensação         os bancários, representados por 218 sindicatos, 16 federações e
+de horas            duas confederações.
+                           Para os bancários, os maiores benefícios do fechamento
+                    de um acordo por dois anos foram os ganhos decorrentes de
+                    uma inflação declinante, que preservaram o poder de compra dos
+                    salários. Para os bancos, a maior previsibilidade permitida por um
+                    cenário de economia mais estável.
+
+DESTAQUES INSTITUCIONAIS 2017                                                          59
+NOVA LEI TRABALHISTA
+        A FEBRABAN acompanhou todo o processo e participou do
+amplo debate social que se estabeleceu durante a tramitação da
+                                                                        Em linha com as
+Nova Lei Trabalhista (NLT).                                            melhores práticas
+        Além disso, ao dispor sobre a prevalência do negociado
+sobre o legislado, a NLT consagra a negociação coletiva como fonte       de mercado, as
+privilegiada das regras a serem aplicadas nas relações de trabalho.
+        Com a NLT, também há a perspectiva de aumento de
+                                                                      mulheres ocupam
+segurança jurídica no ambiente institucional, fator determinante      38,3% dos cargos
+para as decisões de investimento no País, e de oportunidades de
+emprego e renda.                                                        de liderança no
+        A segurança jurídica reduz as incertezas que afastam os
+investimentos e comprometem postos de trabalho. Em uma
+                                                                          setor bancário
+economia global, é preciso considerar que o investidor não quer
+ter surpresas e prefere alocar capital em países onde as instituições
+garantem a previsibilidade dos contratos. Gerar a necessária
+confiança nas relações de trabalho foi um dos elementos mais
+importantes no curso das discussões sobre a reforma trabalhista.
+PERFIL DO BANCÁRIO BRASILEIRO
+        O dinamismo da revolução tecnológica em curso agrega,
+diariamente, novas funções e formas de trabalho em todas
+as atividades produtivas. Os bancos não estão alheios a essa
+transformação nem à crescente competição de novos entrantes
+no mercado financeiro, com o uso de tecnologias disruptivas.
+        Assim como em outros segmentos, as inovações tecnológicas
+têm levado os clientes dos bancos a interagir de diferentes maneiras
+com os produtos e serviços oferecidos, o que exige novos meios de
+relacionamento. Esse processo demandará (e já tem demandado)
+permanente atualização dos profissionais bancários.
+        Portanto, seguindo uma tendência mundial, os bancários,
+cada vez mais, especializam-se em negócios e na solução de
+problemas dos clientes.
+        O setor bancário encerrou 2017 com aproximadamente
+468 mil funcionários diretos (77,85% com nível superior),
+distribuídos por gênero de forma bastante equilibrada: 50,8% de
+homens e 49,2% de mulheres (instituições consideradas: Banco
+do Brasil, Bradesco, Caixa, Citibank, Itaú Unibanco, Mercantil,
+Santander e Votorantim).
+
+60                                                                         RELATÓRIO ANUAL 2017
+A presença                    Os bancos também têm atuado no combate à discriminação
+                      e na promoção da igualdade de gênero e oportunidades no
+de pessoas            mercado de trabalho.
+transexuais nos               Destaca-se que, em 2017, como parte do Programa de Valoriza-
+                      ção da Diversidade, antes mesmo de o Banco Central autorizar travestis
+quadros dos bancos    e transexuais a utilizarem o nome social em cartões de contas bancá-
+                      rias, canais de relacionamento com o cliente, correspondências emiti-
+é uma realidade       das por instituições financeiras e no atendimento pessoal, a FENABAN
+e conferem-se a       e os bancos anunciaram a liberação do uso do nome social dos funcio-
+                      nários, que assim o desejarem, nos crachás, cartões de visita e e-mail.
+elas igualdade                O segmento bancário apresenta projetos consistentes em
+                      equidade de gênero. Rodas de discussão são realizadas com o público
+de tratamento         feminino a fim de estimular a participação das mulheres para subsidiar
+na concessão de       a elaboração de políticas, estratégias e práticas voltadas à promoção
+                      da equidade de gênero no setor.
+benefícios, a exemplo         O desenvolvimento das mulheres como líderes tem sido
+                      incentivado pelas instituições bancárias por meio dos programas de
+da licença-adoção     coaching e mentoria formal e informal, entre outros.
+                              Empenhando-se em promover a diversidade racial em todos
+(equivalente à        os ambientes de trabalho, o segmento bancário mantém programas
+licença-maternidade)  e parcerias estratégicas com organizações reconhecidas por alavancar
+                      iniciativas de inclusão.
+                              Há mais de duas décadas os bancos são pioneiros, no Brasil,
+                      em assegurar a inclusão de pessoas com deficiência (PcD) no
+                      mercado de trabalho e promover a igualdade de oportunidades.
+                      Entre as boas práticas, destacam-se contínuo acompanhamento da
+                      ascensão profissional das PcD e linhas de crédito específicas para a
+                      compra de equipamentos de acessibilidade.
+                              É grande o empenho dos bancos na implantação de programas
+                      em parceria com diversas entidades, com iniciativas inspiradas,
+                      por exemplo, nas edições realizadas do Programa FEBRABAN de
+                      Capacitação Profissional e Inclusão de Pessoas com Deficiência.
+                              Os bancos reconhecem a importância da diversidade. Por isso,
+                      promovem um ambiente propício à inclusão e possuem políticas que
+                      consideram inaceitáveis quaisquer atos de discriminação.
+                              As boas práticas mencionadas são acompanhadas de
+                      ferramentas que asseguram o anonimato no encaminhamento de
+                      denúncias, tanto por canais internos como por meios instituídos via
+                      negociação coletiva.
+                              Nesse sentido, após sete anos de implantação pelos maiores
+                      bancos do País, o Instrumento de Prevenção de Conflitos no Ambiente
+                      de Trabalho, instituído por negociação, consolida-se como importante
+                      mecanismo na apuração de denúncias e na solução de conflitos,
+                      contribuindo para evitar que situações indesejáveis voltem a ocorrer.
+
+DESTAQUES INSTITUCIONAIS 2017                                                               61
+NOVAS TECNOLOGIAS
+        Em 2017, a FEBRABAN, por meio da Comissão Executiva de
+Inovação, intensificou os trabalhos voltados aos impactos da revolução
+digital nos negócios bancários, com a priorização de sete iniciativas
+estratégicas: On Boarding Digital, Pagamentos Real-Time P2P (pessoa
+para pessoa), Registro de Garantia, Digitalização da Cadeia do Comex,
+Blockchain no Sistema Financeiro, Centro de Cyber Security e Adequação
+Regulatória e Legal.
+        Ser digital tornou-se uma prioridade para o setor. A área de
+tecnologia é fundamental na criação de produtos e serviços mais
+conectados às reais necessidades de clientes e consumidores.
+        Nesse contexto, as fintechs estão no centro das atenções do
+mercado financeiro por oferecerem produtos e serviços personalizados
+com custos reduzidos. Em menos de dois anos, o número desses startups
+cresceu 357% no Brasil.
+        A FEBRABAN entende que a parceria entre bancos e fintechs é
+extremamente benéfica para o consumidor: enquanto as fintechs se
+beneficiam da base de clientes dos bancos, as instituições financeiras
+testam e afinam novas tecnologias.
+        Inovações, como blockchain, inteligência artificial e internet das    A tecnologia é
+coisas, devem trazer mais rapidamente novidades para o setor bancário.
+        Os bancos, que já usam computação cognitiva e soluções
+                                                                             o meio e não o
+com inteligência artificial, agora migram para o modelo chatbox               fim. A essência
+(ferramenta que simula um ser humano em conversa com o usuário).
+        Serviços e funções bancárias antes restritos às agências                 das relações
+começam a estar disponíveis também nos caixas eletrônicos, como
+transações por aproximação (Near Field Communication – NFC),                    interpessoais
+leitura de QR Code, videoconferência e biometria facial permitem
+maior integração com outros canais de atendimento e operação,
+                                                                           permanecerá com
+como dispositivos móveis.                                                         as agências
+
+62                                                                                             RELATÓRIO ANUAL 2017
+R E S P O N S A B I L I DA D E S O C I OA M B I E N TA L
+A FEBRABAN É RECONHECIDA
+COMO UM DOS LÍDERES NA
+AMÉRICA LATINA PELO SEU
+COMPROMETIMENTO COM
+A ECONOMIA VERDE E O
+DESENVOLVIMENTO SUSTENTÁVEL
+                                 A FEBRABAN tem estimulado a adoção de práticas de responsabilidade socioam-
+                         biental e a identificação de negócios que contribuam para o desenvolvimento sustentável.
+                                 A governança do tema socioambiental na FEBRABAN está concentrada na
+                         Comissão Setorial de Responsabilidade Social e Sustentabilidade (CRSS), da qual
+                         participam 32 instituições financeiras.
+                                 Por meio da CRSS, a FEBRABAN promove iniciativas e estudos para instrumen-
+                         talizar a integração entre negócios e desenvolvimento sustentável, e contribui para que
+                         o setor esteja em conformidade com a regulação e a legislação socioambiental.
+                                 Nesse contexto, destaca-se que, no decorrer de 2017, discutiram-se critérios
+                         mínimos para identificação de perdas relacionadas a danos socioambientais nas
+                         operações de crédito, o que originou o Guia de orientações para registro de perdas
+                         decorrentes de danos socioambientais. O documento, de uso interno das instituições
+                         financeiras participantes do grupo de trabalho, tem caráter de piloto, com o intuito de
+                         verificar, durante o ano de 2018, a eficácia do processo proposto no guia.
+
+RESPONSABILIDADE SOCIOAMBIENTAL                                                            63
+ECONOMIA VERDE
+E NOVOS NEGÓCIOS
+       A FEBRABAN vem realizando uma série de estudos,
+elaborados em parceria com outras organizações, com a finalidade
+de identificar oportunidades de negócios e fornecer subsídios
+às instituições financeiras sobre os impactos das mudanças
+climáticas nos resultados financeiros e, por consequência, em
+suas carteiras de crédito e portfólios de investimentos.
+       Em 2017, destacaram-se os temas precificação de
+carbono, desmatamento e recomposição florestal, para os
+quais aponta-se a necessidade de aperfeiçoar a identificação
+e o gerenciamento de riscos socioambientais no contexto da
+análise de risco nas instituições financeiras.
+       No mesmo caminho, o Financial Stability Board (FSB)           Em 2017, a FEBRABAN
+publicou, em agosto de 2017, o relatório de sua força-tarefa com
+recomendações para a divulgação de informações financeiras
+                                                                      conquistou o Prêmio
+relacionadas ao clima de maneira padronizada e transparente.              Finanças Verdes,
+       As recomendações, cuja adesão é voluntária, devem ser
+adotadas nos próximos anos por bancos, seguradoras, gestores      concedido pela Federação
+de recursos e detentores de ativos, como fundos de pensão e
+de private equity, bem como por empresas não financeiras,
+                                                                      Latino-Americana de
+especialmente de setores intensivos em uso de recursos               Bancos (FELABAN) e a
+naturais, como energia, transportes, construção, agricultura,
+alimentos e produtos florestais.                                     Corporação Financeira
+       Dessa forma, a gestão integrada de riscos nas instituições
+financeiras será substancialmente alterada com a inclusão de
+                                                                     Internacional (IFC), na
+informações dos impactos climáticos e da inciativa de mitigação       categoria Associação
+fornecida pelos clientes das diversas atividades econômicas.
+       Em 2018, a FEBRABAN conduzirá um projeto que visa                     Bancária Verde
+elaborar orientações para a implementação das recomendações
+do FSB pelas instituições financeiras.
+
+64                                                                                              RELATÓRIO ANUAL 2017
+Títulos verdes no                         EMISSÃO DE TÍTULOS VERDES GRI 203-1
+                                                  Os títulos verdes (green bonds) são utilizados para captar
+Brasil até 2017:                          recursos com o objetivo de implantar ou refinanciar projetos
+                                          que tenham atributos positivos do ponto de vista ambiental
+R$ 1,7 bilhão em                          ou climático.
+emissões nacionais                                Além dos participantes usuais, o mercado brasileiro de
+                                          títulos verdes conta também com os agentes de avaliação
+US$ 3,6 bilhões                           externa (ou seja, realizados por uma terceira parte), que
+                                          atestam, por meio de um parecer independente, os atributos
+em emissões                               ambientais positivos dos projetos.
+internacionais                                    Ressalta-se que o Guia para emissão de títulos verdes
+                                          no Brasil, desenvolvido em outubro de 2016 pela FEBRABAN e
+                                          pela Câmara Temática de Finanças Sustentáveis do Conselho
+                                          Empresarial Brasileiro para o Desenvolvimento Sustentável
+                                          (CEBDS), traz recomendações e diretrizes para agentes do mercado,
+                                          inclusive potenciais emissores, coordenadores, investidores,
+                                          agentes de avaliação externa, bem como outros participantes.
+                                                  Confira, nas tabelas a seguir, a emissão de títulos verdes
+                                          no Brasil até dezembro de 2017.
+ EMISSÕES NACIONAIS
+ Emissor                 Data da emissão     Valor da emissão    Uso dos recursos
+                                                                 Construção dos projetos eólicos Campos
+                                                                 dos Ventos e São Benedito, com 231 MW
+ CPFL Renováveis         Outubro de 2016     R$ 200 milhões
+                                                                 de capacidade instalada, localizados no Rio
+                                                                 Grande do Norte.
+                                                                 Manejo florestal sustentável para a
+                                                                 manutenção de áreas já certificadas ou para
+ Suzano Papel & Celulose Novembro de 2016    R$ 1 bilhão
+                                                                 a expansão da base florestal certificada, que
+                                                                 cumpra os padrões nacionais e internacionais.
+ Ômega Energia           Julho de 2017       R$ 42 milhões       Parques eólicos Porto do Delta, Testa Branca I e III.
+                                                                 Parques eólicos Itarema I, II, III, IV, V, VI, VII, VIII,
+ Rio Energy              Abril de 2017       R$ 112 milhões      IX, no Ceará, por intermédio da holding Itarema
+                                                                 Geração de Energia S.A.
+                                                                 Complexo eólico Delta III, localizado em
+ Ômega Energia           Setembro de 2017    R$ 220 milhões
+                                                                 Paulino Neves e Barreirinhas, no Maranhão.
+                                                                 Complexo da Eólica Serra das Vacas com 50,6
+ PEC Energia             Novembro de 2017    R$ 48 milhões       MW de capacidade instalada, localizado na
+                                                                 cidade de Paranatama, em Pernambuco.
+ Enel Green Power        Dezembro de 2017    R$ 22 milhões       Parques eólicos Damascena e Maniçoba, na Bahia.
+
+RESPONSABILIDADE SOCIOAMBIENTAL                                                                                        65
+  EMISSÕES INTERNACIONAIS
+  Emissor                    Data da emissão   Valor da emissão     Uso dos recursos
+                                                                    Eficiência energética, renováveis, gestão de
+  BRF                        Maio de 2016      € 500 milhões        água e resíduos, manejo florestal sustentável,
+                                                                    redução no uso de matéria-prima.
+                                                                    Manejo sustentável, restauração de
+                                               US$ 500 milhões +    áreas degradadas com florestas nativas,
+  Suzano Papel & Celulose    Junho de 2016
+                                               US$ 200 milhões*     conservação, gestão hídrica, eficiência
+                                                                    energética e energia renovável.
+                                                                    Manejo florestal sustentável, restauração de
+                                                                    florestas nativas e conservação da biodiversidade,
+  Fibria                     Janeiro de 2017   US$ 700 milhões
+                                                                    gestão hídrica e de resíduos, geração de energia de
+                                                                    fontes renováveis.
+                                                                    Energias renováveis, desenvolvimento, construção
+  BNDES                      Maio de 2017      US$ 1 bilhão         ou expansão de instalações para novos ou
+                                                                    existentes projetos de energia solar e eólica.
+                                                                    Energia, eficiência energética, florestal,
+  Klabin                     Setembro de 2017  US$ 500 milhões
+                                                                    agricultura, transporte e adaptação.
+* Emissão suplementar.
+         Em relação à normatização dos green bonds, a FEBRABAN também vem
+acompanhando o desenvolvimento de uma norma internacional sobre títulos verdes,
+a futura ISO 14.030, sob a coordenação do Comitê Técnico da ISO denominado TC
+207/SC04, estabelecido em julho de 2017.
+         O prazo previsto é de 36 meses, incluindo-se mais três meses para preparação
+e publicação da versão nacional da norma. Destaca-se que a Associação Brasileira de
+Normas Técnicas (ABNT) é a organização credenciada na ISO para elaboração desse
+projeto em nosso País.
+         Ao longo do processo de elaboração da norma, a FEBRABAN participa das
+reuniões da ISO/TC207, bem como colabora como membro da Comissão de Estudos
+do Brasil, instituída pela ABNT.
+         Está prevista, para maio de 2018, a segunda reunião da ISO/TC207 em Nova
+York (EUA) – a primeira ocorreu em dezembro de 2017, em Paris (França), para a qual
+a FEBRABAN enviou comentários por meio de especialista brasileiro sobre o tema.
+         Ressalta-se que Sustainable Banking Network (SBN), iniciativa do International
+Finance Corporation (IFC), criou um grupo de trabalho sobre green bonds, do qual
+a FEBRABAN é membro integrante, com o objetivo de debater e ampliar o nível de
+conhecimento sobre o tema. GRI 102-12 | 102-15 | 103-2 | 203-1
+
+66                                                                                            RELATÓRIO ANUAL 2017
+PUBLICAÇÕES FEBRABAN 2017 – SFN E A ECONOMIA VERDE
+                      MENSURANDO RECURSOS FINANCEIROS ALOCADOS NA ECONOMIA VERDE
+                      GRI 103-2 | 203-1
+                             A iniciativa tem como objetivo mensurar os recursos de financiamentos e/ou
+                      empréstimos, concedidos pelos bancos, para os setores da Economia Verde e setores
+                      com potencial impacto socioambiental. A apuração ocorre por meio pesquisa anual com
+                      as instituições financeiras, cuja adesão é voluntária. A primeira edição foi publicada em
+                      2015, apresentando dados retroativos dos anos de 2013 e 2014.
+                             Em 2017, com a participação da Associação Brasileira das Entidades dos Mercados
+                      Financeiro e de Capitais (ANBIMA), foi possível apurar também os dados do mercado
+                      de capitais. O primeiro levantamento, com base em 2016, mostrou que a captação de
+                      recursos com emissão de títulos classificados nos setores da Economia Verde chegou
+                      R$ 25 bilhões – 21,1% do total emitido em todos os setores (R$ 116 bilhões).
+                             O relatório de 2017 apresenta uma síntese dos resultados apurados no período
+                      de 2013 a 2016, para ambos os setores.
+PARTICIPAÇÃO NA CARTEIRA DE CRÉDITO PESSOA                           FINANCIAMENTOS E/OU EMPRÉSTIMOS A
+JURÍDICA DA AMOSTRA (R$ BILHÕES)                                     SETORES DA ECONOMIA VERDE (R$ MILHÕES)
+         1.062                       1.358
+                                                                                         316.932
+                                                                                                   309.080
+         16,6%                       11,3%
+                                                                               153.424
+                                                                     123.711
+          2013                        2014
+         1.893                       1.645
+                                                                       2013       2014     2015         2016
+         16,7%                       18,8%
+          2015                        2016
+
+RESPONSABILIDADE SOCIOAMBIENTAL                                                                          67
+FINANCIAMENTOS E/OU EMPRÉSTIMOS                      PARTICIPAÇÃO NA CARTEIRA DE CRÉDITO PESSOA
+A SETORES COM POTENCIAL IMPACTO                      JURÍDICA DA AMOSTRA (R$ BILHÕES)
+SOCIOAMBIENTAL (R$ MILHÕES)
+                                                           1.062                 1.358
+                                                          44,4%                  39,3%
+                      617.574 605.866
+          533.016
+                                                            2013                  2014
+417.244
+                                                           1.893                 1.645
+                                                          32,6%                  36,8%
+   2013      2014       2015        2016
+                                                            2015                  2016
+ MERCADO DE CAPITAIS NOS SETORES DA ECONOMIA VERDE EM 2016
+ Título                                                                               Volume (R$ milhões)
+ Emissão de dívida no mercado doméstico (debêntures)                                               21.107
+ Emissão de dívida no mercado externo (bonds)                                                            0
+ Emissão primária de ações                                                                            656
+ Green bonds                                                                                        2.869
+ Total                                                                                            24.633
+ MERCADO DE CAPITAIS NOS SETORES COM POTENCIAL IMPACTO SOCIOAMBIENTAL EM 2016
+ Título                                                                               Volume (R$ milhões)
+ Emissão de dívida no mercado doméstico (debêntures)                                                16.117
+ Emissão de dívida no mercado externo (bonds)                                                      57.455
+ Emissão primária de ações                                                                            300
+ Total                                                                                            73.872
+
+68                                                                              RELATÓRIO ANUAL 2017
+   PRECIFICAÇÃO DE CARBONO
+    ESTÃO E PRECIFICAÇÃO DE CARBONO: RISCOS E OPORTUNIDADES PARA
+   G
+   INSTITUIÇÕES FINANCEIRAS GRI 103-2
+          Desenvolvido pela FEBRABAN em parceria com o Centro de Estudos em Sustentabilidade
+   da Fundação Getulio Vargas (GVces), esse relatório aborda a gestão do risco climático por parte
+   de bancos e de empresas, com especial atenção para os riscos e oportunidades relacionados
+   à precificação de carbono, bem como busca identificar temas setoriais relevantes a serem
+   considerados pelas instituições financeiras em suas análises de risco socioambiental.
+          O estudo demonstra que somente o relato de emissões de Gases do Efeito Estufa
+   (GEE) das empresas não é mais suficiente para que os bancos compreendam os riscos e as
+   oportunidades relacionados ao clima. É necessário requerer informações sobre o quanto o
+   tema está inserido na estratégia dos negócios, quais são os procedimentos para identificação,
+   mensuração e gestão desses riscos, as metas e o desempenho. Nesse contexto, a precificação
+   do carbono aparece como ferramenta de informação para orientar o gerenciamento de riscos,
+   e a gestão de portfólios de crédito e de investimento das instituições financeiras.
+   GESTÃO DE RISCOS CLIMÁTICOS COM FOCO EM PRECIFICAÇÃO DE CARBONO –
+   ANÁLISE DAS EMPRESAS BRASILEIRAS RESPONDENTES AO PROGRAMA CLIMATE
+   CHANGE DO CDP GRI 103-2
+          Esse relatório, resultado da parceria entre a FEBRABAN e o Carbon Disclosure
+   Program (CDP), traz uma análise sobre precificação de carbono com base nas respostas de
+   71 empresas brasileiras ao CDP Climate Change em 2016 – programa que tem mobilizado
+   as principais forças do mercado (empresas, investidores e compradores) para integrar a
+   mudança climática e as questões ambientais às estratégias de negócios.
+          O estudo apontou que 79% das companhias avaliadas já incorporam de alguma
+   maneira os riscos e oportunidades das mudanças climáticas em suas estratégias de negócio.
+   No entanto, apenas 17% adotam um preço interno de carbono para direcionar investimentos,
+   mitigar riscos, priorizar projetos menos carbono-intensivos, entre outros objetivos.
+   RISCO DE DESMATAMENTO
+   INSTITUIÇÕES FINANCEIRAS E GESTÃO DO RISCO DE DESMATAMENTO GRI 103-2
+          Esse relatório, desenvolvido pela FEBRABAN em parceria com o Centro de Estudos
+    em Sustentabilidade da Fundação Getulio Vargas (GVces), analisa as implicações da
+    incidência física de desmatamento nas cadeias produtivas da pecuária de corte, soja,
+    produtos madeireiros e óleo de palma para a gestão de risco das instituições financeiras.
+          Entre outros objetivos, o estudo busca aperfeiçoar a gestão do risco pelos bancos
+    por meio da recomendação de elementos de análise para concessão de crédito e do
+    fornecimento de informações sobre ferramentas e bases de dados disponíveis para consulta,
+    bem como fornecer subsídios para que as instituições financeiras possam posicionar-se em
+    face das demandas nacionais e internacionais relacionadas à redução do desmatamento.
+
+RESPONSABILIDADE SOCIOAMBIENTAL                                                                               69
+GESTÃO DE RISCOS DE DESMATAMENTO – ANÁLISE DAS EMPRESAS RESPONDENTES AO
+PROGRAMA FOREST DO CDP GRI 103-2
+       Elaborado em parceria entre a FEBRABAN e o CDP, organização internacional que
+fornece sistema global de dados ambientais, esse relatório apresenta análise realizada
+com base nas respostas de 70 empresas ao Programa Forest do CDP em 2016, as quais
+reportaram compras das commodities dos setores da pecuária, produtos florestais,
+soja e óleo de palma no Brasil.
+       O estudo revela que a maioria das empresas com operações no País considera o risco
+de desmatamento de maneira integrada à avaliação de riscos da companhia, bem como
+possui algum tipo de compromisso envolvendo sua redução. Entre os critérios de maior
+incidência estão legalidade e desmatamento zero.
+       Entre outras recomendações, o relatório sinaliza que empresas atuantes nas
+cadeias de pecuária e soja devem ser consideradas prioritárias na avaliação de riscos
+das instituições financeiras.
+FINANCIAMENTO DA RECOMPOSIÇÃO FLORESTAL DA RESERVA LEGAL COM EXPLORAÇÃO
+ECONÔMICA GRI 103-2
+       Esse estudo, elaborado pela FEBRABAN em parceria com o Centro de Estudos
+em Sustentabilidade da Fundação Getulio Vargas (GVces), tem como objetivo analisar a
+viabilidade de modelos selecionados de financiamento para atividades de recomposição
+florestal no Brasil com uso econômico da área de reserva legal.
+       O relatório traz mapeamento dos municípios com maior potencial para financiamento
+da recomposição florestal em áreas de preservação permanente e reserva legal, nos três
+estados avaliados, Mato Grosso, Paraná e São Paulo, considerando-se a atuação dos bancos
+nesse mercado.
+       As análises mostraram que existem modelos viáveis para o financiamento da
+recomposição florestal e que a receita adicional obtida com a exploração econômica da
+reserva legal torna o modelo de negócio mais atraente para potencial financiamento. Os
+melhores resultados foram encontrados para produtores de soja e cana-de-açúcar e para
+o financiamento de custeio, com arranjos produtivos possíveis nos três Estados avaliados.
+       No entanto, mesmo demonstrando resultados com baixo impacto na capacidade de
+pagamento do tomador, o financiamento dessa atividade em escala não se mostrou, em
+linhas gerais, atrativo para os bancos e clientes nesse momento, salvo em casos específicos.
+       Tal fato ocorre porque parte da rentabilidade da propriedade ainda é comprometida
+pelo custo elevado da recomposição e por sua natureza de longo prazo. Considerando-se que
+a rentabilidade é o fator-chave para o financiamento bancário, o aumento da produtividade
+da atividade principal e a adoção de medidas que tragam resultados econômicos positivos
+para a propriedade rural são fundamentais para viabilização do financiamento.
+                                                                                            CONFIRA AS PUBLICAÇÕES EM:
+                                                                                 portal.febraban.org.br, EM PUBLICAÇÕES,
+                                                                                               SFN E A ECONOMIA VERDE
+
+70                                                                                    RELATÓRIO ANUAL 2017
+PROGRAMAS DE RESPONSABILIDADE SOCIOAMBIENTAL
+O 52ª Café com                          CAFÉ COM SUSTENTABILIDADE
+                                               Em 2017, a FEBRABAN celebrou o aniversário de dez anos
+Sustentabilidade                        do Café com Sustentabilidade. Durante essa década, foram
+                                        realizados 52 eventos, que reuniram 2.750 representantes do
+divulgou, em primeira                   sistema financeiro, da academia, de associações de classe, de
+mão para o mercado                      governo, ONGs, líderes empresariais, entre outros.
+                                               Para comemorar, no mês de agosto, o Café com
+brasileiro,                             Sustentabilidade teve uma edição especial, em que foram
+                                        contemplados os principais temas debatidos nos últimos
+as recomendações da                     dez anos, bem como homenageadas as pessoas que foram e
+força-tarefa do                         continuam sendo importantes para essa agenda.
+                                               É um universo de contribuições que faz do Café com
+Financial Stability                     Sustentabilidade um dos ambientes mais qualificados para
+                                        discutir e estimular o desenvolvimento de uma economia de
+Board (FSB) para                        baixo carbono no contexto das mudanças climáticas e seus
+a divulgação                            impactos nos negócios.
+                                               Os eventos de 2017 trataram dos temas: transparência
+de informações                          de informações relacionadas às mudanças climáticas;
+                                        financiamento para cadeias produtivas livres de desmatamento;
+financeiras                             e stress teste hídrico.
+relacionadas às
+mudanças climáticas
+O CONTEÚDO COMPLETO
+DAS EDIÇÕES REALIZADAS
+ESTÁ DISPONÍVEL NO
+cafecomsustentabilidade.febraban.org.br
+
+RESPONSABILIDADE SOCIOAMBIENTAL                                                          71
+CADASTRO AMBIENTAL RURAL (CAR) GRI 103-2 | 203-1
+       A FEBRABAN apoiou o produtor rural no cumprimento
+da legislação e na regularização ambiental das propriedades
+no âmbito do Acordo de Cooperação Técnica e Financeira para
+Implantação do Cadastro Ambiental Rural, firmado em 2015
+com o Ministério do Meio Ambiente, a Empresa Brasileira de
+Pesquisa Agropecuária (Embrapa), a Fundação Brasileira para
+o Desenvolvimento Sustentável (FBDS) e mais seis entidades.
+       O acordo, com vigência de dois anos, contemplou a
+produção e a disponibilização de mapas elaborados com base
+em imagens de satélite dos municípios situados nos biomas
+Cerrado e Mata Atlântica.
+       Até abril de 2017, término do projeto, foram mapeados              Segundo dados
+3.800 municípios (93% da meta) e 300 milhões de hectares
+(88% da meta).
+                                                                            do SFB, até 31
+       Os mapas foram disponibilizados para o Serviço Florestal           de dezembro de
+Brasileiro (SFB), a Secretaria de Biodiversidade e Florestas e o
+Instituto Chico Mendes; e para diversos estados da federação,           2017, haviam sido
+como São Paulo, Rio de Janeiro, Minas Gerais, Espírito Santo e
+Mato Grosso, bem como para parceiros do projeto, entre eles
+                                                                               cadastrados
+a FEBRABAN.                                                                4,7 milhões de
+       O SFB está utilizando as informações para auditar a
+validação do CAR e como base para planejamentos municipais             imóveis rurais (do
+de adaptação às mudanças climáticas.
+       Ressalta-se que foi prorrogado, para 31 de maio de 2018,     total de 5,5 milhões)
+o prazo para requerer a inscrição no CAR. A partir de junho de
+2018, os bancos somente poderão conceder crédito agrícola para
+                                                                            e 431.619.972
+proprietários de imóveis rurais que estejam cadastrados no sistema. milhões de hectares
+
+72                                                                               RELATÓRIO ANUAL 2017
+INSTITUTO FEBRABAN DE EDUCAÇÃO (INFI)
+O INFI É UM CENTRO DE
+EXCELÊNCIA QUE PROMOVE O
+CONHECIMENTO EM DIVERSAS
+ÁREAS FINANCEIRAS,
+COM SOLUÇÕES
+EDUCACIONAIS INOVADORAS
+                    O Instituto FEBRABAN de Educação (INFI) oferece diversos cursos direcionados
+             ao segmento bancário, além de preparatórios para certificações específicas e conteúdo
+             para os demais mercados, nos formatos presencial e a distância, bem como programas
+             in company, elaborados sob medida para empresas de diversos setores.
+                    O INFI dispõe de duas frentes de educação: corporativa e financeira.
+                    A primeira engloba programas de capacitação de executivos do setor financeiro
+             e demais setores em diversas competências ligadas ao mundo corporativo.
+                    A segunda contempla o desenvolvimento de conteúdos e aplicativos que
+             ajudam a população a usar conscientemente os produtos bancários, gerar poupança e
+             evitar o superendividamento.
+                    Destaca-se ainda a atuação do INFI na certificação profissional de
+             correspondentes e demais profissionais em diversas áreas, como prevenção à lavagem
+             de dinheiro, ouvidoria, crédito rural e suitability.
+                    Para saber mais, acesse www.infi.com.br.
+Meu Bolso em Dia recebeu o Prêmio Ethical 2017,
+reconhecimento internacional em sustentabilidade
+
+INSTITUTO FEBRABAN DE EDUCAÇÃO (INFI)                                                                        73
+EDUCAÇÃO CORPORATIVA GRI 103-2 | 203-1
+        Ao longo do ano, foram realizados cursos e treinamentos, ministrados por renomados
+especialistas do mercado, CEOs e executivos, sobre temas inovadores que atendem às reais
+necessidades de atualização profissional de colaboradores de bancos e instituições financeiras,
+bem como programas segmentados, voltados a gestores, líderes de diversos setores.
+        Em 2017, o INFI promoveu 230 cursos, nos quais foram capacitadas 5.603 pessoas, e
+realizou 22 Summits, encontros técnicos que tratam de questões estratégicas para o setor,
+com 1.200 participantes.
+EDUCAÇÃO FINANCEIRA GRI 103-2 | 203-1
+        A fim de apoiar os bancos no desenvolvimento de conteúdos alinhados às
+necessidades de diversos públicos, o INFI oferece, por meio de programas de educação
+financeira, informações didáticas sobre finanças pessoais para que os consumidores possam
+tomar decisões conscientes relacionadas ao uso do dinheiro, do crédito e de bens financiados.
+        Em 2017, o INFI também promoveu capacitação interna e para funcionários e
+clientes dos bancos, com destaque para a campanha sobre o uso consciente do cartão de
+crédito veiculada durante a Semana de Educação Financeira, em parceria com a ABECS.
+        Ressalta-se ainda que a FEBRABAN é uma das mantenedoras da Associação de
+Educação Financeira do Brasil (AEF), entidade que implanta os projetos da Estratégia
+Nacional de Educação Financeira (ENEF). Em 2017, foram feitos investimentos na
+produção de vídeos e games, bem como na ampliação da plataforma on-line.
+MEU BOLSO EM DIA GRI 103-2 | 203-1
+        O portal Meu Bolso em Dia conquistou o Ethical Corporation Responsible
+Business Award, uma das mais importantes premiações internacionais de
+sustentabilidade corporativa.
+        O Meu Bolso em Dia recebeu o prêmio na categoria Estratégia de Negócios –
+Novos Participantes e foi a única iniciativa brasileira premiada em 2017.
+        O portal oferece ferramentas como o simulador de sonhos, tabelas para controlar os
+gastos de acordo com o público, dicas de economia, aplicativos que ajudam no planejamento
+financeiro e orçamentário, além de conteúdo exclusivo para empreendedores e do canal
+Você e o Banco, lançado em 2017, com orientações sobre o papel das instituições financeiras.
+        Desde o seu lançamento, o Meu Bolso em Dia teve 15 milhões de visitantes, mais
+de 100 mil downloads de seus aplicativos de gestão financeira e 800 mil seguidores
+em suas redes sociais.
+JIMBO MOBILE E MEU NEGÓCIO EM DIA
+        Em 2017, o software de gerenciamento de finanças pessoais Jimbo Mobile
+atendeu 150 mil usuários. Já o Meu Negócio em Dia, aplicativo disponível no Canal do
+Empreendedor, desenvolvido em parceria com o Sebrae, teve 70 mil acessos.                                 SAIBA MAIS EM
+                                                                                              www.meubolsoemdia.com.br
+
+       74                                                                                 RELATÓRIO ANUAL 2017
+                                PRÊMIO INFI-FEBRABAN
+                                DE ECONOMIA BANCÁRIA GRI 203-1
+                                       A FEBRABAN estimula a produção de trabalhos técnicos e
+                                acadêmicos na área de economia bancária. Uma das iniciativas é o
+                                Prêmio INFI-FEBRABAN de Economia Bancária.
+                                       O 9º Prêmio contou com mais de cem trabalhos inscritos,
+                                20% a mais do que no ano anterior, nas três categorias: dissertações,
+                                teses e artigos acadêmicos; monografias; e categoria especial, que
+                                teve nessa edição o tema “As inovações da era digital e seus impactos
+PARA MAIS DETALHES,             sobre o setor financeiro”.
+ACESSE O SITE DO PRÊMIO:
+http://economia.febraban.org.br
+                                CERTIFICAÇÃO
+                                       O INFI oferece cursos preparatórios e certificação para
+                                diversos segmentos com o objetivo de aprimorar as competências
+                                de seus participantes.
+                                       Ao longo do ano, obtiveram certificação 6.906 pessoas,
+                                entre elas correspondentes e profissionais das áreas de ouvidoria,
+                                agronegócio e suitability.
+                                       Ademais, mediante acordo com a Association of Certified
+                                Anti-Money Laundering Specialists (ACAMS), o INFI mantém o
+                                curso de Capacitação e Treinamento no Combate à Corrupção e
+                                à Lavagem de Dinheiro, com certificação internacional. Em 2017,
+PARA SABER MAIS, ACESSE         foram treinados 90 profissionais. Desse total, 44 já realizaram a
+www.certificacaofebraban.org.br prova e 26 foram aprovados (59%).
+
+INSTITUTO FEBRABAN DE EDUCAÇÃO (INFI) 75
+    76                                                                                                     RELATÓRIO ANUAL 2017
+SUMÁRIO DE CONTEÚDO DA GRI – STANDARDS
+ GRI 101: FUNDAMENTOS 2016
+ GRI 102:
+  DIVULGAÇÃO        STANDARDS                                                                    PÁGINA                  OMISSÃO
+ GERAL 2016
+ PERFIL DA ORGANIZAÇÃO
+                    102-1: Nome da organização                                                 24
+                    102-2: Principais atividades, marcas, produtos e serviços                  25
+                    102-3: Localização da sede da organização                                  24
+                    102-4: Localização das operações                                           24
+                    102-5: Controle acionário e forma jurídica da organização                  24
+                    102-6: Mercados em que a organização atua                                  5, 24
+                   102-7: Porte da organização                                                24, 25, 34
+                    102-8: Informações sobre empregados e outros trabalhadores                 24, 34, 35
+                    102-9: Cadeia de fornecedores da organização                               24
+                             udanças significativas ocorridas na organização ou em sua cadeia
+                    102-10: M
+                                                                                               5
+                            de fornecedores
+                    102-11: Abordagem ou princípio da precaução                                25, 26
+                    102-12: Iniciativas desenvolvidas externamente                             28, 65
+                    102-13: Participação em associações                                        28
+ ESTRATÉGIA
+                    102-14: Declaração do presidente                                           6a9
+                    102-15: Principais impactos, riscos e oportunidades                        26, 42, 43, 46, 65
+ ÉTICA E INTEGRIDADE
+                    102-16: Valores, princípios, padrões e normas de comportamento             24, 25
+ GOVERNANÇA
+                    102-18: Estrutura de governança                                            31
+ ENGAJAMENTO DE PARTES INTERESSADAS
+                    102-40: Lista de grupos de stakeholders                                    5, 27, 29
+                    102-41: Acordos de negociação coletiva                                     34
+                                                                                               5, 27, 29
+                                                                                               A FEBRABAN
+                                                                                               identifica seus
+                                                                                               stakeholders
+                    102-42: Identificação e seleção de stakeholders
+                                                                                               conforme a sua
+                                                                                               missão e de acordo
+                                                                                               com as demandas
+                                                                                               recebidas.
+                    102-43: Abordagem adotada pela organização para envolver
+                                                                                               5, 26, 29, 47, 48
+                            os stakeholders
+                    102-44: Principais tópicos e preocupações levantadas                       5, 26, 29, 47,48
+
+    SUMÁRIO DE CONTEÚDO DA GRI                                                                                          77
+ GRI 102:
+  DIVULGAÇÃO          STANDARDS                                                                  PÁGINA               OMISSÃO
+ GERAL 2016
+ PRÁTICAS DO RELATO
+                                                                                               A FEBRABAN
+                                                                                               não divulga as
+                      102-45: Entidades incluídas nas demonstrações financeiras consolidadas   demonstrações
+                                                                                               financeiras da
+                                                                                               entidade.
+                      102-46: Definição do conteúdo do relatório e limites dos temas materiais 5
+                      102-47: Lista dos temas materiais                                        5, 26
+                      102-48: Reformulações de informações                                     5
+                      102-49: Alterações no relatório                                          5
+                      102-50: Período do relatório                                             5
+                      102-51: Data do relatório anterior mais recente                          5
+                      102-52: Ciclo de relato do relatório                                     5
+                      102-53: Contato para perguntas sobre o relatório                         5
+                      102-54: Abordagem do relato de acordo com os padrões GRI                 5
+                      102-55: Sumário de conteúdo GRI                                          5
+                                                                                               Este relatório não
+                      102-56: Asseguração externa                                              foi submetido à
+                                                                                               avaliação externa.
+ CONTEÚDOS
+                        ITEM                                                                     PÁGINA               OMISSÃO
+ ESPECÍFICOS
+ PADRÕES ECONÔMICOS
+ GRI 203: IMPACTOS ECONÔMICOS INDIRETOS 2016
+                      103-1: Explicação da materialidade e seu limite                          26
+GRI 103: Abordagem                                                                             5, 41, 46, 65, 66, 68,
+                      103-2: Abordagem de gestão e seus componentes
+de gestão 2016                                                                                 69, 71, 73
+                      103-3: Avaliação da abordagem de gestão                                  46, 47, 48
+                                                                                               44, 64, 65, 66, 71,
+                      203-1: Investimento em infraestrutura e serviços oferecidos
+                                                                                               73, 74
+
+  78                                                                                                   RELATÓRIO ANUAL 2017
+CONTEÚDOS
+                      ITEM                                                                    PÁGINA                  OMISSÃO
+ESPECÍFICOS
+PADRÕES AMBIENTAIS
+GRI 302: ENERGIA 2016
+                     103-1: Explicação da materialidade e seu limite                          26
+GRI 103: Abordagem
+                     103-2: Abordagem de gestão e seus componentes                            38, 39
+de gestão 2016
+                     103-3: Avaliação da abordagem de gestão                                  38, 39
+                     302-1: Consumo de energia dentro da organização                          38, 39
+                     302-4: Redução do consumo de energia                                     38
+PADRÕES SOCIAIS
+GRI 401: EMPREGO 2016
+                     103-1: Explicação da materialidade e seu limite                          26
+GRI 103: Abordagem
+                     103-2: Abordagem de gestão e seus componentes                            34
+de gestão 2016
+                     103-3: Avaliação da abordagem de gestão                                  34
+                     401-1: Novas contratações de colaboradores e turnover                    36
+                     401-2: Benefícios concedidos a empregados de tempo integral que não são
+                                                                                              34
+                            oferecidos a empregados temporários ou em regime de meio período
+                     401-3: Licença-maternidade/paternidade                                   34
+GRI 404: TREINAMENTO E EDUCAÇÃO 2016
+                     103-1: Explicação da materialidade e seu limite                          26
+GRI 103: Abordagem
+                     103-2: Abordagem de gestão e seus componentes                            34
+de gestão 2016
+                     103-3: Avaliação da abordagem de gestão                                  34
+                     404-1: Número médio de horas de treinamento por ano por empregado        34, 37
+                     404-3: Percentual de empregados que recebem regularmente análises
+                                                                                              34
+                             de desempenho e de desenvolvimento de carreira
+GRI 405: DIVERSIDADE E IGUALDADE DE OPORTUNIDADES 2016
+                     103-1: Explicação da materialidade e seu limite                          26
+GRI 103: Abordagem
+                     103-2: Abordagem de gestão e seus componentes                            34
+de gestão 2016
+                     103-3: Avaliação da abordagem de gestão                                  34
+                     405-1: Diversidade dos grupos responsáveis pela governança e
+                                                                                              35
+                             entre os colaboradores
+GRI 415: POLÍTICAS PÚBLICAS 2016
+                     103-1: Explicação da materialidade e seu limite                          26
+GRI 103: Abordagem
+                     103-2: Abordagem de gestão e seus componentes                            24
+de gestão 2016
+                     103-3: Avaliação da abordagem de gestão                                  24
+                                                                                              A FEBRABAN é
+                                                                                              apartidária e não
+                                                                                              faz contribuições
+                     415-1: Contribuições a partidos políticos                                financeiras ou outro
+                                                                                              tipo de apoio a
+                                                                                              campanhas políticas.
+
+CRÉDITOS
+GOVERNANÇA                                                        79
+CRÉDITOS
+COORDENAÇÃO GERAL
+Mário Sérgio Fernandes de Vasconcelos
+Diretor de Relações Institucionais da FEBRABAN
+Roseli Rapouso do Amaral
+Analista de Marketing da FEBRABAN
+CONSULTORIA GRI, COORDENAÇÃO EDITORIAL, DESIGN E REVISÃO DE TEXTO
+TheMediaGroup
+REDAÇÃO
+Rose Jordão
+
+PORTAL.FEBRABAN.ORG.BR

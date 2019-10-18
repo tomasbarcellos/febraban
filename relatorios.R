@@ -8,7 +8,7 @@ compactar <- function(str) {
 }
 
 arquivos <- dir("pdf/", full.names = TRUE)
-destinos <- paste0("txt/ra", 12:18, ".txt")
+destinos <- str_replace_all(arquivos, "pdf", "txt")
 
 relatorios <- map(arquivos, pdf_text)
 relatorios_limpo <- map(relatorios, compactar) %>% 
